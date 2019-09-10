@@ -5,8 +5,6 @@ permalink: /about/
 breadcrumb: About
 ---
 
-![1](/images/discover/ai-bus.jpg)
-<img src=”images/discover/ai-bus.jpg” alt=”any text” style=”width:100px;height:100px”>
 ### **SG:Digital Wonderland 2019**
 
 Previously known as Tech Saturday, Singapore’s largest tech carnival is back as the SG:Digital Wonderland, with more cool gadgets and exciting activities lined up for everyone to discover, experience and innovate!
