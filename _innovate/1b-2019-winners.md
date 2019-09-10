@@ -8,7 +8,6 @@ second_nav_title: "Youth Innovation Awards"
 ---
 
 ![1](/images/innovate/yia/yia-7.jpg)<br>
-<img src="/images/innovate/yia/yia-7.jpg" alt="1" style="width:128px;height:128px;"><br>
 Congratulations to all our Youth Innovation Awards receipients! Read more about their projects by clicking below.
 ### 2019 Winners
 
