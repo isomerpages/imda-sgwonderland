@@ -8,6 +8,12 @@ second_nav_title: "Highlights"
 ---
 ![2](/images/highlights/2019-highlights-banner.jpg)
 
+### SG:Digital Wonderland 2019<br>
+
+Event Details:<br>
+18-19 May 2019<br>
+Suntec City Convention Centre
+
 ![1](/images/highlights/SG Wonder infographic_v2.jpg)
 
 #### Event Highlight Video
