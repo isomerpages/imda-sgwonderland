@@ -6,6 +6,8 @@ breadcrumb: 2019 Highlights
 collection_name: highlights
 second_nav_title: "Highlights"
 ---
+![2](/images/highlights/2019-highlights-banner.jpg)
+
 ![1](/images/highlights/SG Wonder infographic_v2.jpg)
 
 #### Event Highlight Video
