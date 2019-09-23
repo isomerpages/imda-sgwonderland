@@ -10,7 +10,7 @@ second_nav_title: "Highlights"
 
 ### SG:Digital Wonderland 2019<br>
 
-Event Details:<br>
+**Event Details:**<br>
 18-19 May 2019<br>
 Suntec City Convention Centre
 
