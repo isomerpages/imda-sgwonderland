@@ -28,3 +28,4 @@
         url: /media-2019
 - title: Subscribe to our newsletter
   url: https://form.gov.sg/#!/5ce4f21a2305a40017faf7b0
+  external: true
