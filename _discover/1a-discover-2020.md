@@ -1,4 +1,4 @@
-   < ---
+< ---
 layout: leftnav-page-content
 title: 2020 Edition
 permalink: /discover-2020
