@@ -100,7 +100,7 @@ Do you have what it takes to be a master dodgeball champion? Check out HADO Sing
 <a name="4"></a><br>
 **Fun with Drones**<br>
 
-![4](/images/experience/experience4c.jpg)
+![4](/images/experience/experience4c 2.jpg)
 
 A myriad of drones flying activities awaits you at the upsized Drones Arcade!
 
