@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Past Winners
-permalink: /innovate/past-winners/
+title: Youth Innovation Awards 2020
+permalink: /innovate/youth-innovation-awards-2020/
 breadcrumb: Past Winners
-collection_name: innovate
+collection_name: Youth Innovation Awards 2020
 second_nav_title: "Youth Innovation Awards"
 ---
 
