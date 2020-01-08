@@ -1,13 +1,15 @@
 ---
 layout: leftnav-page-content
-title: Past Winners
-permalink: /innovate/past-winners/
-breadcrumb: Past Winners
+
+title: Youth Innovation Awards 2019 Winners
+permalink: /innovate/yia-2019/
+breadcrumb: Youth Innovation Awards 2019 Winners
 collection_name: innovate
 second_nav_title: "Youth Innovation Awards"
 ---
 
 ![1](/images/innovate/yia/yia-7.jpg)<br>
+
 Congratulations to all our Youth Innovation Awards 2019 finalists! Learn more about the winning projects by clicking on the Award Categories below:
 
 ### 2019 Winners
