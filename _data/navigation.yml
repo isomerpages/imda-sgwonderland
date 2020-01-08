@@ -4,18 +4,26 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
 - title: About
   url: /about/
+  sub-links:
+      - title: 2019 Highlights
+        url: /highlights-2019/
 - title: Discover
-  url: /discover/
+  url: /discover-2019/
 - title: Experience
-  url: /experience/
+  url: /experience-2019/
+- title: Innovate
+  url: /innovate-2019/
+  sub-links:
+      - title: Youth Innovation Awards
+        url: /innovate/youth-innovation-awards/
+- title: Stories
+  url: null
+  sub-links:
+      - title: Features
+        url: /features
+      - title: Media Coverage
+        url: /media-2019
 - title: Contact Us
   url: /contact-us/
-- title: Innovate
-  url: /innovate/youth-innovation-awards/
-  sub-links:
-  - title: Youth Innovation Awards
-    url: /innovate/youth-innovation-awards/

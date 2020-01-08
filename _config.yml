@@ -1,5 +1,5 @@
-title: Title
-title-abbreviated: Title
+title: Infocomm Media Development Authority
+title-abbreviated: Infocomm Media Development Authority
 description: >- # this means to ignore newlines until "baseurl:"
   Description
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,6 +8,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 remote_theme: isomerpages/isomerpages-template
 safe: false
+kramdown:
+  parse_block_html: true
 
 plugins:
   - jekyll-feed
@@ -24,15 +26,15 @@ breadcrumbs:
 paginate: 12
 
 # Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: true
+homepage_hero_i_want_to: true
+homepage_resources: false
+homepage_careers: true
 
 # Feedback Form URL
 feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
 
 # FAQ URL
-faq_url: "/faq/"
-faq_url_external: false
+
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
@@ -42,4 +44,12 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 
 collections:
   innovate:
+    output: true
+  discover:
+    output: true
+  experience:
+    output: true
+  media:
+    output: true
+  highlights:
     output: true
