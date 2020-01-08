@@ -1,5 +1,6 @@
 ---
 layout: leftnav-page-content
+
 title: Youth Innovation Awards 2019 Winners
 permalink: /innovate/yia-2019/
 breadcrumb: Youth Innovation Awards 2019 Winners
@@ -8,7 +9,9 @@ second_nav_title: "Youth Innovation Awards"
 ---
 
 ![1](/images/innovate/yia/yia-7.jpg)<br>
-Congratulations to all our Youth Innovation Awards receipients! Read more about their projects by clicking below.
+
+Congratulations to all our Youth Innovation Awards 2019 finalists! Learn more about the winning projects by clicking on the Award Categories below:
+
 ### 2019 Winners
 
 <details>
