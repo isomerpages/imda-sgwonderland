@@ -9,9 +9,7 @@ second_nav_title: "Youth Innovation Awards"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/23MeMw09kN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>The Youth Innovation Showcase and Awards is a platform for local and regional youths to come together to showcase their innovative and cutting edge tech prototypes.</p> 
+<p>The Youth Innovation Awards is a platform for local and regional youths to come together to showcase their innovative & cutting edge tech prototypes. The awards led by the Infocomm Media Development Authority (IMDA) seek to recognize, celebrate and share the innovative work done by students from Institutes of Higher Learning in Singapore and around the region.</p> 
 
-The award seeks to recognise, celebrate and showcase the innovative work done by students from the Institutes of Higher Learning in Singapore and the region.
-
-The theme for this year’s award is “Simple Ideas, Extraordinary Innovations” and the inaugural edition saw over 60 submissions from 7 countries such as Brunei, Hong Kong, Philippines, Indonesia, Vietnam, Malaysia and Singapore. 20 shortlisted finalists showcased their innovative project prototypes at the Youth Innovation Awards, held in conjunction at SG:Digital Wonderland.
+<p>The inaugural edition received more than 60 projects and 20 finalist teams from Brunei, Hong Kong, Indonesia, Malaysia, Philippines, Singapore and Vietnam were shortlisted for the finale, held in conjunction with SG:Digital Wonderland. </p>
 
