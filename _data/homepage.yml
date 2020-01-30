@@ -18,7 +18,7 @@ hero-banner: /images/banner1.jpg
 # I want to dropdown
 i-want-to:
   - title: showcase my innovative product for 2020 
-    url: https://go.gov.sg/frlsgdw2020
+    url: https://form.gov.sg/#!/5d1f0bbe35ca9e001156253e
     external: true
   - title: conduct tech and media workshops
     url: https://go.gov.sg/sgdwwrks
