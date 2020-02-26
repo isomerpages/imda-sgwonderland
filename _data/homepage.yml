@@ -15,6 +15,8 @@ hero-title: SG:Digital Wonderland
 hero-subtitle: Experience the digital future at Singapore's largest tech carnival
 hero-banner: /images/banner1.jpg
 
+  Google-analytics: UA-79861556-1
+
 # I want to dropdown
 i-want-to:
   - title: showcase my innovative product for 2020 
