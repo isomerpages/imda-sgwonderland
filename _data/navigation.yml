@@ -5,6 +5,7 @@
 ##################################
 
 - title: About
+  false_collection: true
   url: /about/
   sub-links:
       - title: 2019 Highlights
@@ -14,11 +15,13 @@
 - title: Experience
   url: /experience-2019/
 - title: Innovate
+  false_collection: true
   url: /innovate-2019/
   sub-links:
       - title: Youth Innovation Awards
         url: /innovate/youth-innovation-awards/
 - title: Stories
+  false_collection: true
   url: null
   sub-links:
       - title: Features
