@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Introduction
 permalink: /innovate/youth-innovation-awards/
 breadcrumb: Introduction
-collection_name: innovate
-second_nav_title: "Youth Innovation Awards"
+third_nav_title: 'Youth Innovation Awards'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/23MeMw09kN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
