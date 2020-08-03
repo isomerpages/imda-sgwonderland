@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-
-title: Youth Innovation Awards 2019 Winners
+title: 'Youth Innovation Awards 2019 Winners'
 permalink: /innovate/yia-2019/
-breadcrumb: Youth Innovation Awards 2019 Winners
-collection_name: innovate
-second_nav_title: "Youth Innovation Awards"
+breadcrumb: 'Youth Innovation Awards 2019 Winners'
+third_nav_title: 'Youth Innovation Awards'
+
 ---
+
 
 ![1](/images/innovate/yia/yia-7.jpg)<br>
 
