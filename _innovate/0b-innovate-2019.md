@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: 2019 Edition
+title: '2019 Edition'
 permalink: /innovate-2019/
-breadcrumb: Innovate Zone
-collection_name: innovate
-second_nav_title: "Innovate Zone"
+breadcrumb: 'Innovate Zone'
+third_nav_title: 'Innovate Zone'
+
 ---
+
 Come on down to the Innovate Zone, to attend free tech workshops and have fun learning about coding and digital making. Get inspired by cutting edge tech prototypes created by students and join the crowd to cheer our local and regional students innovating and participating in the Youth Innovation Awards, Code Quest and Tech for Good coding competitions!
 
 **Youth Innovation Showcase and Awards 2019**
