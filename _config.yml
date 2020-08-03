@@ -1,55 +1,49 @@
-title: Infocomm Media Development Authority
-title-abbreviated: Infocomm Media Development Authority
-description: >- # this means to ignore newlines until "baseurl:"
-  Description
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+title: 'Infocomm Media Development Authority'
+description: Description
+url: ""
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 kramdown:
-  parse_block_html: true
-
+    parse_block_html: true
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: true
-homepage_resources: false
-homepage_careers: true
-
-# Feedback Form URL
-feedback_form_url: "https://www.form.gov.sg/5e53851686290e0013b81b22"
-
-# FAQ URL
-
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
 collections:
-  innovate:
-    output: true
-  discover:
-    output: true
-  experience:
-    output: true
-  media:
-    output: true
-  highlights:
-    output: true
+    innovate:
+        output: true
+    discover:
+        output: true
+    experience:
+        output: true
+    media:
+        output: true
+    highlights:
+        output: true
+favicon: /images/SGD-logo.png
+google-analytics: UA-79861556-1
+permalink: none
+baseurl: ""
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: page
