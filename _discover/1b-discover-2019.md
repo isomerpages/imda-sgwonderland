@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: 2019 Edition
+title: '2019 Edition'
 permalink: /discover-2019
-breadcrumb: 2019 Edition
-collection_name: discover
-second_nav_title: Discover Zone
+breadcrumb: '2019 Edition'
+third_nav_title: 'Discover Zone'
+
 ---
+
 Gearing up for the digital future? Want to experience a mock cyber-attack and the damages it can potentially cause? Learn how to protect yourself in the digital age and discover how Artificial Intelligence (AI) technologies can transform almost everything from home living products to services. Visit the Discover Zone to learn more and get a chance to win attractive prizes in our sure win lucky dip! 
 
 <a name="top"></a>
