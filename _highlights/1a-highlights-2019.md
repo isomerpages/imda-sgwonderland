@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: 2019 Highlights
+title: '2019 Highlights'
 permalink: /highlights-2019/
-breadcrumb: 2019 Highlights
-collection_name: highlights
-second_nav_title: "Highlights"
+breadcrumb: '2019 Highlights'
+third_nav_title: Highlights
+
 ---
+
 ![2](/images/highlights/2019-highlights-banner.jpg)
 
 ### SG:Digital Wonderland 2019<br>
