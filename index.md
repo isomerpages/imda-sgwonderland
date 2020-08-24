@@ -45,24 +45,24 @@ sections:
         alt: null
         button: 'Learn more'
     - carousel:
-      - title: Best of Show
-        subtitle: Team Whizz
+      - subtitle: Best of Show
+        title: Team Whizz
         description: On-demand autonomous e-scooter service with self-redistributing, orientating, parking and charging features. <a href="/innovate/youth-innovation-awards/">Learn more.</a>
         image: /images/innovate/yia/whizz.jpg
-      - title: Best Citizen Centric
-        subtitle: Team Aqua Check
+      - subtitle: Best Citizen Centric
+        title: Team Aqua Check
         description: Water contamination detection mobile application that equips users with the ability to check water for contamination. The mobile application recognises different types of bacteria by uploading a microscopic photo of water sample onto the app's cloud database. <a href="/innovate/youth-innovation-awards/">Learn more.</a>
         image: /images/innovate/yia/aquacheck.jpg
-      - title: Best Sustainable Idea
-        subtitle: Team Scoltech
+      - subtitle: Best Sustainable Idea
+        title: Team Scoltech
         description: A portable device that can detect scoliosis. The device is able to provide accurate digital reading using an accelerometer and rotary encoder, and thus eliminate the need for repeated x-ray scanning for routine measurement. <a href="/innovate/youth-innovation-awards/">Learn more.</a>
         image: /images/innovate/yia/scoltech.jpg
-      - title: Best Creative Idea
-        subtitle: Team Robocoach
+      - subtitle: Best Creative Idea
+        title: Team Robocoach
         description: Assistive coaching for yoga and golf through AI, computer vision, and deep learning. Robocoach is able to analyse a user posture and provide feedback to help them improve their performance. <a href="/innovate/youth-innovation-awards/">Learn more.</a>
         image: /images/innovate/yia/robocoach.jpg
-      - title: Visitors' Choice Awards
-        subtitle: Team Whizz
+      - subtitle: Visitors' Choice Awards
+        title: Team Whizz
         description: On-demand autonomous e-scooter service with self-redistributing, orientating, parking and charging features. <a href="/innovate/youth-innovation-awards/">Learn more.</a>
         image: /images/innovate/yia/whizz2.jpg
 ---
