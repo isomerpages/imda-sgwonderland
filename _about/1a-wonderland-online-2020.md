@@ -1,8 +1,7 @@
 ---
-title: 'SG:D Wonderland Online 2020'
-permalink: /sgd-wonderland-online-2020/
-breadcrumb: 'SG:D Wonderland 2020'
-third_nav_title: About
+title: 'SG D Wonderland Online 2020'
+permalink: /about/sgd-wonderland-online-2020/
+breadcrumb: 'SG D Wonderland 2020'
 
 ---
 
