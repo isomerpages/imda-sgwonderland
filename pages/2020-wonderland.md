@@ -1,7 +1,7 @@
 ---
-title: 'SG D Wonderland Online 2020'
+title: 'SG:D Wonderland Online 2020'
 permalink: /about/sgd-wonderland-online-2020/
-breadcrumb: 'SG D Wonderland 2020'
+breadcrumb: 'SG:D Wonderland 2020'
 
 ---
 
