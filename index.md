@@ -17,9 +17,6 @@ sections:
             - title: 'register my interest to attend the event'
               url: 'https://go.gov.sg/visitsgdw2020'
               external: true
-            - title: 'Testing to staging environment'
-              url: 'https://go.gov.sg/visitsgdw2020'
-              external: true
         title: 'SG:Digital Wonderland'
         subtitle: 'Experience the digital future at Singapore''s largest tech carnival'
         background: /images/banner1.jpg
