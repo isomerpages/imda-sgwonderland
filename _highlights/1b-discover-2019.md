@@ -1,8 +1,8 @@
 ---
-title: '2019 Edition'
+title: 'Discover Zone 2019'
 permalink: /discover-2019
-breadcrumb: '2019 Edition'
-third_nav_title: 'Discover Zone'
+breadcrumb: 'Discover Zone 2019'
+third_nav_title: '2019 Edition'
 
 ---
 

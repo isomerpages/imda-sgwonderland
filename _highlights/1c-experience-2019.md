@@ -1,8 +1,8 @@
 ---
-title: '2019 Edition'
+title: 'Experience Zone 2019'
 permalink: /experience-2019
-breadcrumb: '2019 Edition'
-third_nav_title: 'Experience Zone'
+breadcrumb: 'Experience Zone 2019'
+third_nav_title: '2019 Edition'
 
 ---
 

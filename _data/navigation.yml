@@ -6,14 +6,17 @@ links:
         url: /about/
         sublinks:
             -
-                title: '2019 Highlights'
+                title: '2020 Highlights'
                 url: /highlights-2019/
+                # url: /highlights-2020/
     -
         title: Discover
         url: /discover-2019/
+        # url: /discover-2020/
     -
         title: Experience
         url: /experience-2019/
+        # url: /experience-2020/
     -
         title: Innovate
         false_collection: true
@@ -33,6 +36,20 @@ links:
             -
                 title: 'Media Coverage'
                 url: /media-2019
+    -
+        title: "2019"
+        false_collection: true
+        url: /highlights-2019/
+        sublinks:
+            -
+                title: 'Highlights'
+                url: '/highlights-2019/'
+            -
+                title: 'Discover'
+                url: '/discover-2019/'
+            -
+                title: 'Experience'
+                url: '/experience-2019/'
     -
         title: 'Contact Us'
         url: /contact-us/
