@@ -7,8 +7,10 @@ links:
         sublinks:
             -
                 title: '2020 Highlights'
+                url: /highlights-2020/
+            -
+                title: '2019 Edition'
                 url: /highlights-2019/
-                # url: /highlights-2020/
     -
         title: Discover
         url: /discover-2019/
@@ -20,7 +22,8 @@ links:
     -
         title: Innovate
         false_collection: true
-        url: /innovate-2019/
+        url: /innovate-2019
+        # url: /innovate-2020
         sublinks:
             -
                 title: 'Youth Innovation Awards'
@@ -50,6 +53,12 @@ links:
             -
                 title: 'Experience'
                 url: '/experience-2019/'
+            -
+                title: 'Innovate'
+                url: '/innovate-2019'
+            -
+                title: 'Youth Innovation Awards Winner 2019'
+                url: '/innovate/yia-2019'
     -
         title: 'Contact Us'
         url: /contact-us/
