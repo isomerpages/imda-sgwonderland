@@ -74,4 +74,45 @@ Step into a zombie-infested zone and blast the zombies in this interactive Zombi
 Presented by the following partners:<br>
 
 | Partner | Experience |
-| 
+| --- | --- |
+| Hiverlab | VR Cinema |
+| Ignite VR | VR Food Fight |
+| iMMERSIVELY | "An Excavation through Time" in VR |
+| Mages Studio | Safety Training in VR |
+| Mediafront Singapore | Zombie Busters |
+| Our Better World | From Wheelchairs to Motorbikes |
+| Serl.io | Transforming Medical and Health Sciences with Mix Reality |
+| Singapore International Foundation | (In)visible Sound |
+| Sora Media | Dangerous Jobs VR 360 |
+| The MeshMinds Foundation | Art X Tech for Good |
+
+[Back to Top](#top)
+
+<a name="3"></a><br>
+**Augmented Reality Dodgeball Challenge**<br>
+
+![3](/images/experience/AR_dodgeball2.jpg)
+
+Do you have what it takes to be a master dodgeball champion? Check out HADO Singapore, the first-ever to showcase AR Exer-gaming, a fitness game combined with wearable devices powered by AR.
+
+[Back to Top](#top)
+
+<a name="4"></a><br>
+**Fun with Drones**<br>
+
+![4](/images/experience/experience4c 2.jpg)
+
+A myriad of drones flying activities awaits you at the upsized Drones Arcade!
+
+Note: Recommended age is 4 years and above. Kids below 12 years must be accompanied with a parent/guardian.
+
+[Back to Top](#top)
+
+<a name="5"></a><br>
+**eSports Stadia**<br>
+
+![5](/images/experience/experience5b.jpg)
+
+If you are curious about all things eSports, come join us at the eSports stadia to catch all the action!
+
+[Back to Top](#top)
