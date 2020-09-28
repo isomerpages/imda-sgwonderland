@@ -1,8 +1,8 @@
 ---
-title: 'SG:D Wonderland 2019'
+title: '2019 Highlights'
 permalink: /highlights-2019/
-breadcrumb: 'SG:D Wonderland 2019'
-third_nav_title: '2019 Edition'
+breadcrumb: '2019 Highlights'
+third_nav_title: Highlights
 
 ---
 
