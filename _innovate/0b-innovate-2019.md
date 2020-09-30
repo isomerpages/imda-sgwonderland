@@ -1,8 +1,8 @@
 ---
-title: 'Innovate Zone 2019'
+title: '2019 Edition'
 permalink: /innovate-2019
-breadcrumb: 'Innovate Zone 2019'
-third_nav_title: '2019 Edition'
+breadcrumb: 'Innovate Zone'
+third_nav_title: 'Innovate Zone'
 
 ---
 
