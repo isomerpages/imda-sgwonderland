@@ -15,7 +15,6 @@ Congratulations to all our Youth Innovation Awards 2019 finalists! Learn more ab
 
 <details>
   <summary><p style="display: inline-block;"><b>Best of Show Award</b></p></summary>
-  <!-- This should be updated to staging branch and staging site only! -->
   <img src="/images/innovate/yia/YIAlogo_190508_BestOfShow.png" alt="4" style="float:left;width:266px;height:310px;margin:0px 20px">
   <p style="height: 310px; display: table-cell; vertical-align: middle;">Overall best for being the most impactful on the way citizens’ work, live and play.</p>
   <br>
