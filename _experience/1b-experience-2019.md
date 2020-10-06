@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: 2019 Edition
+title: 'Experience Zone 2019'
 permalink: /experience-2019
-breadcrumb: 2019 Edition
-collection_name: experience
-second_nav_title: Experience Zone
+breadcrumb: 'Experience Zone 2019'
+third_nav_title: '2019 Edition'
+
 ---
+
 Look forward to a plethora of fun and excitement from discovering the latest tech gadgets and innovations that can help improve our lives; to interacting with a multitude of Immersive Media experiences, having fun with a game of Augmented Reality dodgeball to taking part in a myriad of activities at the Drone Arcade!
 
 <a name="top"></a>

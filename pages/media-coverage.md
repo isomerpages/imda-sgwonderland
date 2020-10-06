@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Media Coverage
+title: 'Media Coverage'
 permalink: /media-coverage/
-breadcrumb: Media Coverage
+breadcrumb: 'Media Coverage'
+
 ---
+
 | Article | Source |
 | --- | --- |
 | <a href="https://www.straitstimes.com/tech/assistive-technologies-for-children-with-disabilities-highlighted-at-sgdigital-wonderland-2019" target="_blank">Assistive technologies for children with disabilities highlighted at SG:Digital Wonderland 2019</a> | The Straits Times |
