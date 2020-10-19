@@ -2,7 +2,7 @@
 layout: homepage
 title: 'SG:Digital Wonderland'
 permalink: /
-notification: 'This website is in beta - your valuable <a href="https://www.google.com">feedback</a> will help us in improving it.'
+notification: 
 sections:
     - hero:
         dropdown:
