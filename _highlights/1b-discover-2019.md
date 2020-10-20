@@ -1,7 +1,7 @@
 ---
-title: 'Discover 2019'
+title: 'Discover'
 permalink: /discover-2019/
-breadcrumb: 'Discover 2019'
+breadcrumb: 'Discover'
 third_nav_title: SG&#58;D Wonderland 2019
 
 ---
