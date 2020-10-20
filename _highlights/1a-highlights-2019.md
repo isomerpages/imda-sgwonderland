@@ -2,7 +2,7 @@
 title: '2019 Highlights'
 permalink: /highlights-2019/
 breadcrumb: '2019 Highlights'
-third_nav_title: Highlights
+third_nav_title: SG&#58;D Wonderland 2019
 
 ---
 
