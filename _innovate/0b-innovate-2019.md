@@ -1,6 +1,6 @@
 ---
 title: '2019 Edition'
-permalink: /innovate-2019
+permalink: /innovate-2020
 breadcrumb: 'Innovate Zone'
 third_nav_title: 'Innovate Zone'
 
