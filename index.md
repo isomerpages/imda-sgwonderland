@@ -20,17 +20,14 @@ sections:
         title: 'SG:Digital Wonderland'
         subtitle: 'Experience the digital future at Singapore''s largest tech carnival'
         background: /images/banner1.jpg
-    - infopic:
+    - infobar:
+        subtitle:
         title: 'SG:Digital Wonderland goes online!'
         description: 'Singapore’s most exciting digital festival is back! Join us for an amazing weekend of fun tech experiences at this  special edition where you can gather your family and friends and take part in interactive activities to experience various exciting technologies and learn how they can enhance the way we live, learn and play!  
 
 From free live stream activities, engaging workshops to winning attractive prizes, there is something for everyone. Come Discover, Experience, Innovate with SG:Digital Wonderland Special Edition on 28 and 29 November 2020. 
 
 <b>Discover</b> the art of digital parenting, or shop for the latest tech products that can help you in your everyday lives.  <b>Experience</b> a Virtual Reality Watch party from the comfort of your homes and cheer on your favourite eSports team. <b>Innovate</b> and create through emerging tech workshops or get creative and join a digital storytelling contest.'
-        url: /discover-2019
-        image: '/images/discover/concierge_ robot.jpg'
-        alt: 'Discover Zone'
-        button: 'Learn more'
     - infopic:
         title: 'Experience Zone'
         description: 'Look forward to a plethora of fun and excitement from discovering the latest tech gadgets and innovations that can help improve our lives; to interacting with a multitude of Immersive Media experiences, having fun with a game of Augmented Reality dodgeball to taking part in a myriad of activities at the Drone Arcade!'
