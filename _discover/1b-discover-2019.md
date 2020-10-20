@@ -1,6 +1,6 @@
 ---
 title: '2019 Edition'
-permalink: /discover-2019
+permalink: /discover-2020
 breadcrumb: '2019 Edition'
 third_nav_title: 'Discover Zone'
 
