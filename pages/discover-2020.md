@@ -13,7 +13,7 @@ Gearing up for the digital future?  Discover the art of digital parenting, or sh
 <a name="1"></a>
 ### **The Art of Digital Parenting**
 
-![3](/images/Parenting.jpg)
+![3](/images/discover/Parenting.jpg)
 
 Learn the art of digital parenting with the Media Literacy Council and industry experts from TikTok and LEGO! 
 
@@ -22,7 +22,7 @@ Learn the art of digital parenting with the Media Literacy Council and industry 
 <a name="2"></a><br>
 ### **Future Ready Living**
 
-![4](/images/Future Ready Living.jpg)
+![4](/images/discover/Future Ready Living.jpg)
 
 Shop for the latest tech gadgets and innovations on Shopee! Catch Benzo & Chrysan from WahBanana on Shopee Live on 28 Nov, 9pm as they show how these smart living and lifestyle devices can help us in our everyday lives! 
 
