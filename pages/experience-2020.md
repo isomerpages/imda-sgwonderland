@@ -67,54 +67,17 @@ Fit a radio collar to an elephant to gain crucial data on how to protect these e
 [Back to Top](#top)
 
 <a name="2"></a><br>
-**Digital Media Playground**<br>
-
-![2](/images/experience/experience2b.jpg)
-
-Step into a zombie-infested zone and blast the zombies in this interactive Zombie Busters game from HeadRock VR, or be an archaeologist and learn about real-life artefacts and Singapore’s history through the virtual reality experience Excavation through Time in VR from Immersively. See how Mixed Reality is reshaping the learning, practice and research of medicine and health sciences with 3D visualization of the human anatomy with the Hololens by Serl.io, or simply sit back and relax at the VR Cinema powered by Hiverlab’s Storyhive platform where you can immerse in 360 documentaries of your choice. There’s a lot more to try at the Digital Media Playground!
-
-Presented by the following partners:<br>
-
-| Partner | Experience |
-| --- | --- |
-| Hiverlab | VR Cinema |
-| Ignite VR | VR Food Fight |
-| iMMERSIVELY | "An Excavation through Time" in VR |
-| Mages Studio | Safety Training in VR |
-| Mediafront Singapore | Zombie Busters |
-| Our Better World | From Wheelchairs to Motorbikes |
-| Serl.io | Transforming Medical and Health Sciences with Mix Reality |
-| Singapore International Foundation | (In)visible Sound |
-| Sora Media | Dangerous Jobs VR 360 |
-| The MeshMinds Foundation | Art X Tech for Good |
-
-[Back to Top](#top)
-
-<a name="3"></a><br>
-**Augmented Reality Dodgeball Challenge**<br>
-
-![3](/images/experience/AR_dodgeball2.jpg)
-
-Do you have what it takes to be a master dodgeball champion? Check out HADO Singapore, the first-ever to showcase AR Exer-gaming, a fitness game combined with wearable devices powered by AR.
-
-[Back to Top](#top)
-
-<a name="4"></a><br>
-**Fun with Drones**<br>
-
-![4](/images/experience/experience4c 2.jpg)
-
-A myriad of drones flying activities awaits you at the upsized Drones Arcade!
-
-Note: Recommended age is 4 years and above. Kids below 12 years must be accompanied with a parent/guardian.
-
-[Back to Top](#top)
-
-<a name="5"></a><br>
 **eSports Stadia**<br>
 
-![5](/images/experience/experience5b.jpg)
+![2](/images/experience/ESports.jpg)
 
-If you are curious about all things eSports, come join us at the eSports stadia to catch all the action!
+Gather your friends and watch Singapore’s first 'League of Legends: Wild Rift' tournament. Witness the community teams battle it out and claim the title of the nation's inaugural Wild Rift champions! 
+
+<b>Family and Influencer Engagement</b><br> 
+Pit your gaming skills against renowned gaming influencers, or against other families, and stand a chance to win exciting prizes! 
+
+<b>Panel Session</b><br> 
+If you are curious about all things eSports, join this session to find out about responsible gaming, developing a professional career in eSports and the future of eSports in Singapore.
+
 
 [Back to Top](#top)
