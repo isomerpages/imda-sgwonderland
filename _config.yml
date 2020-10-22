@@ -30,9 +30,9 @@ collections:
     innovate:
         output: true
     discover:
-        output: true
+        output: false
     experience:
-        output: true
+        output: false
     media:
         output: true
     highlights:
