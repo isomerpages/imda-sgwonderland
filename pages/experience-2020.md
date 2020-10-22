@@ -1,12 +1,11 @@
 ---
-title: 'Experience Zone 2019'
+title: 'Experience Zone 2020'
 permalink: /experience-2020
-breadcrumb: 'Experience Zone 2019'
-third_nav_title: '2019 Edition'
+breadcrumb: 'Experience 2020'
 
 ---
 
-Look forward to a plethora of fun and excitement from discovering the latest tech gadgets and innovations that can help improve our lives; to interacting with a multitude of Immersive Media experiences, having fun with a game of Augmented Reality dodgeball to taking part in a myriad of activities at the Drone Arcade!
+Look forward to a plethora of fun and excitement from catching exclusive Virtual Reality (VR) and 360o videos and being part of the first-ever League of Legends Wild Rift eSports challenge in Singapore! 
 
 <a name="top"></a>
 [Future Ready Living](#1) | [Digital Media Playground](#2) | [Augmented Reality Dodgeball Challenge](#3) | [Fun with Drones](#4) | [eSports Stadia](#5)
