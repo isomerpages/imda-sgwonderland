@@ -8,45 +8,27 @@ breadcrumb: 'Discover 2020'
 Gearing up for the digital future?  Discover the art of digital parenting, or shop for the latest tech gadgets and innovations, some of which are created by our homegrown companies, which can help you in your everyday lives. 
 
 <a name="top"></a>
-[Artificial Intelligence](#1) | [Cyber Security](#2) | [Media Literacy](#3)
+[The Art of Digital Parenting](#1) | [Future Ready Living](#2) 
 
 <a name="1"></a>
-### **Artificial Intelligence**
+### **The Art of Digital Parenting**
 
-**Lab on Wheels AI Escape Room**<br>
+![3](/images/Parenting.jpg)
 
-![3](/images/discover/ai-bus.jpg)
-
-Enter the Lab on Wheels’ AI Escape Room to learn all about AI concepts while solving a series of AI challenges.
-
-**AI Robot World**<br>
-
-![2](/images/discover/concierge_ robot.jpg)
-
-Enter into an AI Robot world to find out how AI technologies are used in the making of AI Humanoid robots. Be greeted by Cruzer the concierge robot, enjoy a synchronised dance performance by a team of robots, experience a mind blowing AR game with the latest Marvel hero bot plus you can even build, code and play with your own basic robotic creation!
-
-**AI Smart Home Studio**<br>
-
-![1](/images/discover/discover1.jpg)
-
-Experience the home of the future powered by AWS: make a cup of coffee, turn on calming lights to softly illuminate the space, and have your favourite music playing soothingly as you wind down— simply by using your voice. That’s the future of home automation.
+Learn the art of digital parenting with the Media Literacy Council and industry experts from TikTok and LEGO! 
 
 [Back to Top](#top)
 
 <a name="2"></a><br>
-### **Cyber Security**
+### **Future Ready Living**
 
-**Lab on Wheels CSI experience**<br>
+![4](/images/Future Ready Living.jpg)
 
-![4](/images/discover/discover4.jpg)
+Shop for the latest tech gadgets and innovations on Shopee! Catch Benzo & Chrysan from WahBanana on Shopee Live on 28 Nov, 9pm as they show how these smart living and lifestyle devices can help us in our everyday lives! 
 
-Take part in the Cyber Security Investigation experience and role play as interns in Critical Infrastructure Companies (e.g. Train Company, Water Utility etc) and take part in a series of challenge-based activities to help you see the potential damage that can happen when a city is under cyber-attack.
-
-**Be Cyber Savvy**<br>
-
-![7](/images/discover/discover7.jpg)
-
-Cybercrime is on the rise and it is important for us to protect ourselves so we do not become the next victim. Just as we lock our doors to keep burglars out, we must secure our devices and information to keep ourselves safe from cyber criminals. Play a game on identifying phishing attempts and learn simple tips to go safe online. The Cyber Security Agency of Singapore (CSA) is the national agency overseeing cybersecurity strategy, operations, education, outreach and ecosystem development.
+| Featured Partner | Featured Device | Summary |
+| --- | --- | --- |
+| AICO Technologies | Smart Egg - Personal Control Center | The AICO Smart Egg is a universal remote control that allows you to control any infrared electronic devices from your smartphone. It enables seamless home automation without the need to upgrade to "smart" devices. |
 
 [Back to Top](#top)
 
