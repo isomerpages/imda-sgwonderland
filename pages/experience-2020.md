@@ -29,17 +29,17 @@ No VR goggles? Get two Google Cardboard headsets for FREE per household! Limited
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-0pky" colspan="1"><b>Organising Partner</b></th><th class="tg-0pky" colspan="2">HiverLab</th>
+    <th class="tg-y698" colspan="1"><b>Organising Partner</b></th><th class="tg-y698" colspan="2">HiverLab</th>
   </tr>
   <tr>
-    <td class="tg-y698"><b>Featured Content Creator</b></td>
-    <td class="tg-y698"><b>Feature Title</b></td>
-    <td class="tg-y698"><b>Synopsis</b></td>
+    <td class="tg-0pky"><b>Featured Content Creator</b></td>
+    <td class="tg-0pky"><b>Feature Title</b></td>
+    <td class="tg-0pky"><b>Synopsis</b></td>
   </tr>
   <tr>
-    <td class="tg-y698">Actxa</td>
-    <td class="tg-y698">AICO Technologies</td>
-    <td class="tg-y698">Ascension International</td>
+    <td class="tg-y698">DOBIISON</td>
+    <td class="tg-y698">Life in Northern Ghana</td>
+    <td class="tg-y698">An immersive experience of Northern Ghana and its people, sights, sounds, and food, with a special focus on the Damba Festival, an ancient festival that originated in the 18th century, being celebrated after a 17-year break.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Bekind Solutions</td>
