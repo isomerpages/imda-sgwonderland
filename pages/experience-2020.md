@@ -37,34 +37,30 @@ No VR goggles? Get two Google Cardboard headsets for FREE per household! Limited
     <td class="tg-0pky"><b>Synopsis</b></td>
   </tr>
   <tr>
-    <td class="tg-y698">DOBIISON</td>
-    <td class="tg-y698">Life in Northern Ghana</td>
-    <td class="tg-y698">An immersive experience of Northern Ghana and its people, sights, sounds, and food, with a special focus on the Damba Festival, an ancient festival that originated in the 18th century, being celebrated after a 17-year break.</td>
+    <td class="tg-0pky">DOBIISON</td>
+    <td class="tg-0pky">Life in Northern Ghana</td>
+    <td class="tg-0pky">An immersive experience of Northern Ghana and its people, sights, sounds, and food, with a special focus on the Damba Festival, an ancient festival that originated in the 18th century, being celebrated after a 17-year break.</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Bekind Solutions</td>
-    <td class="tg-0pky">Biorithm</td>
-    <td class="tg-0pky">Crown Digital</td>
+    <td class="tg-0pky">Earth Bridge Films</td>
+    <td class="tg-0pky">Borneo Orangutan Survival 360: Road to Rehabilitation</td>
+    <td class="tg-0pky">Created in collaboration with Borneo Orangutan Survival (BOS) Switzerland and its global partners, this VR experience gives an incredibly rare and cute insight into the early lives of Orangutans in rehabilitation.<br>
+
+The experience is used internationally at educational events organised by BOS to immerse children and adults alike in the incredible work that goes on at the rehabilitation center in Borneo.
+</td>
   </tr>
   <tr>
-    <td class="tg-y698">GeneLife</td>
-    <td class="tg-y698">gush</td>
-    <td class="tg-y698">hiLife</td>
+    <td class="tg-0pky">Earth Bridge Films</td>
+    <td class="tg-0pky">Elephants: A 360 journey into the Jungle</td>
+    <td class="tg-0pky">Join Dr. Farina Othman on a critical scientific mission into the jungle and get up close to one of the largest animals on the planet, the Bornean Elephant.<br>
+
+Fit a radio collar to an elephant to gain crucial data on how to protect these endangered animals and discover the determination, skill and team work required to save a species.
+</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Kohepets</td>
-    <td class="tg-0pky">MixGo-Commune</td>
-    <td class="tg-0pky">Movinc</td>
-  </tr>
-  <tr>
-    <td class="tg-y698">Newton's Meter</td>
-    <td class="tg-y698">Streamcast Asia</td>
-    <td class="tg-y698">Timekettle</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">uHoo</td>
-    <td class="tg-0pky">Whyre</td>
-    <td class="tg-0pky">Zimplistic</td>
+    <td class="tg-0pky">iMMERSiVELY</td>
+    <td class="tg-0pky">Bajau Sea – The Last Sea Wanderers</td>
+    <td class="tg-0pky">Eco-activist and adventurer Nadine Chandrawinata embarks on a journey of discovery to learn how one of the world’s last sea gypsy tribes still survives despite the pressures of the modern world.</td>
   </tr>
 </table>
 
