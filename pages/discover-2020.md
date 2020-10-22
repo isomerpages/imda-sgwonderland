@@ -29,25 +29,12 @@ Shop for the latest tech gadgets and innovations on Shopee! Catch Benzo & Chrysa
 | Featured Partner | Featured Device | Summary |
 | --- | --- | --- |
 | AICO Technologies | Smart Egg - Personal Control Center | The AICO Smart Egg is a universal remote control that allows you to control any infrared electronic devices from your smartphone. It enables seamless home automation without the need to upgrade to "smart" devices. |
+| Bekind Solutions | Agegracefully Smart Walking Stick | A walking stick disguised as an umbrella that is lightweight, has an anti-slip self-standing tip, an intelligent auto-fall alarm that will signal for help when triggered and also includes a built-in MP3 player-cum-radio. |
+| Newton’s Meter | Newton's Meter | A 24/7 personal SOS device that automatically sends SOS messages with GPS coordinates to 10 pre-configured phone numbers and emergency services when triggered during any kind of accidents and emergency situations such as car crash or theft. |
+| Carmen Automotive  | Carmen | Carmen is a device that monitors the car’s condition in real-time and predicts potential problems before it happens. With the device, car owners can better manage car problems, reduce maintenance cost and avoid breakdowns. |
+| Alpha Matrix Marketing  | Rocketbook | The Rocketbook Core notebook is a reusable notebook that provides a classic paper and pen writing experience. Paired with an app, your written notes can be easily scanned and uploaded to cloud services. |
+| Alpha Matrix Marketing  | uHoo | uHoo is a smart air sensor that understands the air you breathe and helps you create healthier habits in the home to prevent colds, coughs, flu, asthma and other allergies. |
+| GeneLife | GeneLife at-home DNA tests | The GeneLife at-home DNA tests enable you to manage your health and wellness simply by harnessing information from just a sample of your saliva.  |
+| Smartpaw | Skymee Owl Robot Camera and Treat Dispenser  |  |
 
 [Back to Top](#top)
-
-<a name="3"></a><br>
-### **Media Literacy**
-
-**Your Personal Data, Your Choice!**<br>
-
-![5](/images/discover/discover5.jpg)
-
-Learn more about personal data protection and responsible data sharing at the Personal Data Protection Commission (PDPC) booth through a fun and interactive game!
-
-**Get Smart with Sherlock**<br>
-
-![6](/images/discover/discover-6.jpg)
-
-Learn how to detect and debunk fake news with the Get Smart with Sherlock fact-checking starter kit developed by the Media Literacy Council.
-
-The kit features Sherlock, your friendly neighbourhood detective, who will help you understand online falsehoods and give you tips and clues on how to spot it.
-
-[Back to Top](#top)
-
