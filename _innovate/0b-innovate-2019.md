@@ -15,11 +15,13 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 Create, tinker and have fun learning about emerging technologies such as Artificial Intelligence and Immersive Media through fun and engaging workshops at no cost! Be creative and build your own Virtual Reality World, or dive in the world of AI with Minecraft. Workshops are free, but registration is required. Vacancies are on a first come, first served basis. 
 
 **Virtual**
+
 | Date & Time | Workshop | Age Group | Partners |
 | --- | --- | --- | --- |
 | 28 Nov |  |  |  |
 
 **Physical**
+
 | Date & Time | Workshop | Age Group | Partners |
 | --- | --- | --- | --- |
 | 29 Nov |  |  |  |
