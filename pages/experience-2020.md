@@ -42,7 +42,7 @@ No VR goggles? Get two Google Cardboard headsets for FREE per household! Limited
     <td class="tg-0pky">An immersive experience of Northern Ghana and its people, sights, sounds, and food, with a special focus on the Damba Festival, an ancient festival that originated in the 18th century, being celebrated after a 17-year break.</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Earth Bridge Films</td>
+    <td class="tg-0pky" rowspan="2">Earth Bridge Films</td>
     <td class="tg-0pky">Borneo Orangutan Survival 360: Road to Rehabilitation</td>
     <td class="tg-0pky">Created in collaboration with Borneo Orangutan Survival (BOS) Switzerland and its global partners, this VR experience gives an incredibly rare and cute insight into the early lives of Orangutans in rehabilitation.<br>
 
@@ -50,7 +50,6 @@ The experience is used internationally at educational events organised by BOS to
 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Earth Bridge Films</td>
     <td class="tg-0pky">Elephants: A 360 journey into the Jungle</td>
     <td class="tg-0pky">Join Dr. Farina Othman on a critical scientific mission into the jungle and get up close to one of the largest animals on the planet, the Bornean Elephant.<br>
 
