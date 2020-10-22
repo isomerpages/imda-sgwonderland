@@ -67,7 +67,7 @@ Fit a radio collar to an elephant to gain crucial data on how to protect these e
 [Back to Top](#top)
 
 <a name="2"></a><br>
-**eSports Stadia**<br>
+### **eSports Stadia**<br>
 
 ![2](/images/experience/ESports.jpg)
 
