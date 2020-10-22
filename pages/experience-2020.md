@@ -8,14 +8,17 @@ breadcrumb: 'Experience 2020'
 Look forward to a plethora of fun and excitement from catching exclusive Virtual Reality (VR) and 360&#176; videos and being part of the first-ever League of Legends Wild Rift eSports challenge in Singapore! 
 
 <a name="top"></a>
-[Future Ready Living](#1) | [Digital Media Playground](#2) | [Augmented Reality Dodgeball Challenge](#3) | [Fun with Drones](#4) | [eSports Stadia](#5)
+[VR Watch Party](#1) | [eSports Stadia](#2) 
 
 <a name="1"></a>
-### **Future Ready Living**<br>
+### **VR Watch Party**<br>
 
-![1](/images/experience/experience1b.jpg)
+![1](/images/experience/VR Watch Party.jpg)
 
-Get served with your favourite coffee from a robotic barista at Crown Coffee, control all your electronic devices with just a Smart Egg by Aico or try out Argon Transform – the smart helmet for motorists, check these out and more at our cool tech showcases.
+Put on your VR goggles and sign up for Singapore’s first Virtual Reality (VR) Watch Party! Experience life in a water village or immerse yourself in a joyous African festival as you catch all these never-seen-before, exclusive VR and 360o content. Participants will also get to meet and interact with the content creators themselves. All in the comfort of your home!<br> 
+
+No VR goggles? Get two Google Cardboard headsets for FREE per household! Limited headsets available on a first come, first serve basis.
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -26,7 +29,12 @@ Get served with your favourite coffee from a robotic barista at Crown Coffee, co
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-0pky" colspan="3"><b>Partners</b></th>
+    <th class="tg-0pky" colspan="1"><b>Organising Partner</b></th><th class="tg-0pky" colspan="2">HiverLab/th>
+  </tr>
+  <tr>
+    <td class="tg-y698"<b>Featured Content Creator</b></td>
+    <td class="tg-y698"><b>Feature Title</b></td>
+    <td class="tg-y698"><b>Synopsis</b></td>
   </tr>
   <tr>
     <td class="tg-y698">Actxa</td>
