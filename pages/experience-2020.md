@@ -5,7 +5,7 @@ breadcrumb: 'Experience 2020'
 
 ---
 
-Look forward to a plethora of fun and excitement from catching exclusive Virtual Reality (VR) and 360o videos and being part of the first-ever League of Legends Wild Rift eSports challenge in Singapore! 
+Look forward to a plethora of fun and excitement from catching exclusive Virtual Reality (VR) and 360&#176; videos and being part of the first-ever League of Legends Wild Rift eSports challenge in Singapore! 
 
 <a name="top"></a>
 [Future Ready Living](#1) | [Digital Media Playground](#2) | [Augmented Reality Dodgeball Challenge](#3) | [Fun with Drones](#4) | [eSports Stadia](#5)
