@@ -32,7 +32,7 @@ No VR goggles? Get two Google Cardboard headsets for FREE per household! Limited
     <th class="tg-0pky" colspan="1"><b>Organising Partner</b></th><th class="tg-0pky" colspan="2">HiverLab/th>
   </tr>
   <tr>
-    <td class="tg-y698"<b>Featured Content Creator</b></td>
+    <td class="tg-y698"><b>Featured Content Creator</b></td>
     <td class="tg-y698"><b>Feature Title</b></td>
     <td class="tg-y698"><b>Synopsis</b></td>
   </tr>
