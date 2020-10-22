@@ -5,7 +5,7 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: 'COME DISCOVER, EXPERIENCE AND INNOVATE'
+        title: 'Come Discover, Experience and Innovate'
         subtitle: '28 - 29 Nov 2020'
         background: /images/banner1.jpg
     - infobar:
