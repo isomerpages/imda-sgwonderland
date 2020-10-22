@@ -1,5 +1,5 @@
 ---
-title: 'Discover 2020'
+title: 'Discover Zone 2020'
 permalink: /discover-2020
 breadcrumb: 'Discover 2020'
 
