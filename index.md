@@ -5,8 +5,8 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: 'SG:Digital Wonderland'
-        subtitle: 'Experience the digital future at Singapore''s largest tech carnival'
+        title: 'COME DISCOVER, EXPERIENCE AND INNOVATE'
+        subtitle: '28 - 29 Nov 2020'
         background: /images/banner1.jpg
     - infobar:
         subtitle:
