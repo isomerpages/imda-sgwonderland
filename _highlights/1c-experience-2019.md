@@ -12,8 +12,7 @@ Look forward to a plethora of fun and excitement from discovering the latest tec
 
 <a name="1"></a>
 ### **Future Ready Living**<br>
-![0](/images/Future Ready Living Draft #6.png)
-<img src="/images/Future Ready Living Draft #6.png">
+<img src="/images/Future Ready Living Draft.png">
 
 ![1](/images/experience/experience1b.jpg)
 
