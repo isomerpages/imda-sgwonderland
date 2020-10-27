@@ -12,6 +12,8 @@ Look forward to a plethora of fun and excitement from discovering the latest tec
 
 <a name="1"></a>
 ### **Future Ready Living**<br>
+![0](/images/Gank_Integrated Communications_Infographic_v5_compressed.gif)
+
 V2<br>
 <img src="/images/Future Ready Living Draft V2.png"><br>
 V1<br>
