@@ -38,3 +38,5 @@ Shop for the latest tech gadgets and innovations on Shopee! Catch Benzo & Chrysa
 | Smartpaw | Skymee Owl Robot Camera and Treat Dispenser  |  |
 
 [Back to Top](#top)
+
+![logos](/images/IMDA_Logo_v1.png)
