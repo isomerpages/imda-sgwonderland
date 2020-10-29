@@ -81,3 +81,5 @@ If you are curious about all things eSports, join this session to find out about
 
 
 [Back to Top](#top)
+
+![logos](/images/IMDA_Logo_v1.png)
