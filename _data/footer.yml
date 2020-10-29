@@ -5,29 +5,38 @@
 #                                #
 ##################################
 contact_us: /contact-us/
-show_reach: false
+show_reach: true
 feedback: https://form.gov.sg/#!/5a9ce876b3a3b6006e6b8335
-privacy_policy: /privacy/
+faq: /faq/
+privacy_policy: /privacy-policy/
 terms_of_use: /terms-of-use/
-copyright_agency: Infocomm Media Development Authority
+copyright_agency: Open Government Products
+social_media:
+    facebook: https://www.facebook.com/YourFBPage
+    twitter: https://www.twitter.com/YourTwitter
+    youtube: https://www.youtube.com/YourYoutube
+    instagram: https://www.instagram.com/your.insta/
+    linkedin: https://www.linkedin.com/company/YourAgency
 
+# If navlinks are the same as your navigation bar, you can omit this section entirely!
 navlinks:
-  - title: About
-    url: /about
+  - title: Sample Collection
+    collection: sample-collection
+  - title: Resource Room
+    resource_room: true
+  - title: Single Page
+    url: /some-page/
+  - title: Custom Sublinks
+    url: /some-page-a/
     sublinks:
-      - title: SG:Digital Wonderland 2020
-        url: /sgdw2020/
-     - title: SG:Digital Wonderland 2019
-        url: /highlights-2019/  
-  - title: Discover
-    url: /discover-2020
-    sublinks:
-      - title: The Art of Digital Parenting
-        url: /discover-2020#1
-     - title: Future Ready Living
-        url: /discover-2020#2
+      - title: Subitem 1
+        url: /some-page-a/
+      - title: Subitem 2
+        url: /some-page-b/
+      - title: Subitem 3
+        url: /some-page-c/
 links:
-  - title: Subscribe to our newsletter
+  - title: Google
     url: https://www.google.com
 
 
