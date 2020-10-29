@@ -14,24 +14,20 @@ copyright_agency: Infocomm Media Developmeny Authority
 
 # If navlinks are the same as your navigation bar, you can omit this section entirely!
 navlinks:
-  - title: Custom Sublinks
-    url: /some-page-a/
+  - title: About
+    url: /about
     sublinks:
-      - title: Subitem 1
-        url: /some-page-a/
-      - title: Subitem 2
-        url: /some-page-b/
-      - title: Subitem 3
-        url: /some-page-c/
-  - title: Custom Sublinks
-    url: /some-page-a/
+      - title: SG&#58;D Wonderland 2020
+        url: /sgdw2020/
+      - title: SG&#58;D Wonderland 2019
+        url: /highlights-2019/
+  - title: Discover
+    url: /discover-2020
     sublinks:
-      - title: Subitem 1
-        url: /some-page-a/
-      - title: Subitem 2
-        url: /some-page-b/
-      - title: Subitem 3
-        url: /some-page-c/
+      - title: The Art of Digital Parenting
+        url: /discover-2020#1
+      - title: Future Ready Living
+        url: /discover-2020#2
   - title: Custom Sublinks
     url: /some-page-a/
     sublinks:
