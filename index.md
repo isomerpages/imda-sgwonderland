@@ -5,9 +5,9 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: 'Come Discover, Experience and Innovate'
+        title: ' '
         subtitle: '28 - 29 Nov 2020'
-        background: /images/banner1.jpg
+        background: /images/homepage/KV_201029_4931x2313-01.jpg
     - infobar:
         subtitle:
         title: 'SG:Digital Wonderland goes online!'
