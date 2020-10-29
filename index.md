@@ -6,7 +6,7 @@ notification:
 sections:
     - hero:
         title: 'Come Discover, Experience and Innovate'
-        subtitle: '28 - 29 Nov 2020'
+        subtitle: '<b>28 - 29 Nov 2020</b>'
         background: /images/banner1.jpg
     - infobar:
         subtitle:
