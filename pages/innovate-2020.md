@@ -31,3 +31,5 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 ![2](/images/innovate/Storytelling.jpg)
 
 Kickstart your digital storytelling journey and take part in the first “Making a Millionaire Creator” workshop and contest by IMDA and NasStudios and stand a chance to win attractive prizes. Join us in the pre-contest workshop taught by the experts from NasAcademy and learn useful tips and tricks for your next big story. 
+
+![logos](/images/IMDA_Logo_v1.png)
