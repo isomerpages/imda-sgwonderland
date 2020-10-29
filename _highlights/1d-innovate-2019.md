@@ -51,3 +51,5 @@ The Tech Excursion is a specially curated experience for children from self-help
 ![6](/images/innovate/innovate5.jpg)
 
 More than 20 technology partners will be showcasing the latest educational products and gadgets! Check out their exciting offerings at the Marketplace
+
+![logos](/images/IMDA_Logo_v1.png)
