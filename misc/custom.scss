@@ -359,3 +359,15 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+.bg-hero {
+    width: 100%;
+    padding-top: 46.91%;
+    position: relative;
+}
+.bp-hero-body {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
