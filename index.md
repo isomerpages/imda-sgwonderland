@@ -6,7 +6,7 @@ notification:
 sections:
     - hero:
         title: ' '
-        subtitle: '28 - 29 Nov 2020'
+        subtitle: ' '
         background: /images/homepage/KV_201029_4931x2313-01.jpg
     - infobar:
         subtitle:
