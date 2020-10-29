@@ -4,32 +4,31 @@
 # Feel free to edit this file :) #
 #                                #
 ##################################
-- title: Subscribe to our newsletter
-  url: https://form.gov.sg/#!/5ce4f21a2305a40017faf7b0
-  external: true
-- title: About
-  url: /about/
-  sub-links:
+contact_us: /contact-us/
+show_reach: false
+feedback: https://form.gov.sg/#!/5a9ce876b3a3b6006e6b8335
+privacy_policy: /privacy/
+terms_of_use: /terms-of-use/
+copyright_agency: Infocomm Media Development Authority
+
+navlinks:
+  - title: About
+    url: /about
+    sublinks:
       - title: SG:Digital Wonderland 2020
-        url: /highlights-2020/      
-      - title: SG:Digital Wonderland 2019
-        url: /highlights-2019/
-- title: Discover
-  url: /discover-2020/
-- title: Experience
-  url: /experience-2020/
-- title: Innovate
-  url: /innovate-2020/
-  sub-links:
-      - title: Youth Innovation Awards
-        url: /innovate/youth-innovation-awards/
-- title: Stories
-  url: null
-  sub-links:
-      - title: Features
-        url: /features
-      - title: Media Coverage
-        url: /media-2019
+        url: /sgdw2020/
+     - title: SG:Digital Wonderland 2019
+        url: /highlights-2019/  
+  - title: Discover
+    url: /discover-2020
+    sublinks:
+      - title: The Art of Digital Parenting
+        url: /discover-2020#1
+     - title: Future Ready Living
+        url: /discover-2020#2
+links:
+  - title: Subscribe to our newsletter
+    url: https://www.google.com
 
 
 
