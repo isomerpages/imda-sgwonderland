@@ -10,14 +10,16 @@
 - title: About
   url: /about/
   sub-links:
-      - title: 2019 Highlights
+      - title: SG:Digital Wonderland 2020
+        url: /highlights-2020/      
+      - title: SG:Digital Wonderland 2019
         url: /highlights-2019/
 - title: Discover
-  url: /discover-2019/
+  url: /discover-2020/
 - title: Experience
-  url: /experience-2019/
+  url: /experience-2020/
 - title: Innovate
-  url: /innovate-2019/
+  url: /innovate-2020/
   sub-links:
       - title: Youth Innovation Awards
         url: /innovate/youth-innovation-awards/
