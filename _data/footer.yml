@@ -10,12 +10,7 @@ feedback: https://form.gov.sg/#!/5a9ce876b3a3b6006e6b8335
 privacy_policy: /privacy/
 terms_of_use: /terms-of-use/
 copyright_agency: Infocomm Media Developmeny Authority
-social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+
 
 # If navlinks are the same as your navigation bar, you can omit this section entirely!
 navlinks:
