@@ -21,7 +21,7 @@ From free live stream activities, engaging workshops to winning attractive prize
         button: Learn More
         url: /discover-2020
         image: /images/homepage/Discover.jpg
-        alt: 
+        alt: discover
     - infopic:
         title: Experience
         subtitle:
@@ -29,7 +29,7 @@ From free live stream activities, engaging workshops to winning attractive prize
         button: Learn More
         url: /experience-2020
         image: /images/homepage/Experience.jpg
-        alt: 
+        alt: experience
     - infopic:
         title: Innovate
         subtitle:
@@ -37,7 +37,7 @@ From free live stream activities, engaging workshops to winning attractive prize
         button: Learn More
         url: /innovate-2020
         image: /images/homepage/Innovate.jpg
-        alt: 
+        alt: innovate
 ---
 
 
