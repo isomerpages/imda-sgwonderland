@@ -14,12 +14,42 @@ copyright_agency: Infocomm Media Developmeny Authority
 
 # If navlinks are the same as your navigation bar, you can omit this section entirely!
 navlinks:
-  - title: Sample Collection
-    collection: sample-collection
-  - title: Resource Room
-    resource_room: true
-  - title: Single Page
-    url: /some-page/
+  - title: Custom Sublinks
+    url: /some-page-a/
+    sublinks:
+      - title: Subitem 1
+        url: /some-page-a/
+      - title: Subitem 2
+        url: /some-page-b/
+      - title: Subitem 3
+        url: /some-page-c/
+  - title: Custom Sublinks
+    url: /some-page-a/
+    sublinks:
+      - title: Subitem 1
+        url: /some-page-a/
+      - title: Subitem 2
+        url: /some-page-b/
+      - title: Subitem 3
+        url: /some-page-c/
+  - title: Custom Sublinks
+    url: /some-page-a/
+    sublinks:
+      - title: Subitem 1
+        url: /some-page-a/
+      - title: Subitem 2
+        url: /some-page-b/
+      - title: Subitem 3
+        url: /some-page-c/
+  - title: Custom Sublinks
+    url: /some-page-a/
+    sublinks:
+      - title: Subitem 1
+        url: /some-page-a/
+      - title: Subitem 2
+        url: /some-page-b/
+      - title: Subitem 3
+        url: /some-page-c/
   - title: Custom Sublinks
     url: /some-page-a/
     sublinks:
