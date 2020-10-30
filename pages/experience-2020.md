@@ -61,6 +61,13 @@ Fit a radio collar to an elephant to gain crucial data on how to protect these e
     <td class="tg-0pky">Bajau Sea – The Last Sea Wanderers</td>
     <td class="tg-0pky">Eco-activist and adventurer Nadine Chandrawinata embarks on a journey of discovery to learn how one of the world’s last sea gypsy tribes still survives despite the pressures of the modern world.</td>
   </tr>
+    <tr>
+    <td class="tg-0pky">TOUCH Community</td>
+    <td class="tg-0pky">Depression</td>
+    <td class="tg-0pky">Mental health is an important component of our lives. However, many of us are misinformed about the signs, symptoms and causes of mental illnesses, thereby contributing to its stigma. However, through education, we can change our negative perceptions and increase our level of empathy for those living with mental health issues. Through this 2-minute video, you will walk in the shoes of someone with depression and gain a first-hand experience of the common signs and symptoms of the condition. You will also observe how the community should respond when someone is in distress.  
+&#91;Age Rating: 10 years old and above; Children between the ages of 10 to 12 must be accompanied by an adult during the VR experience&#93; 
+</td>
+  </tr>
 </table>
 
 
