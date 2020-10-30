@@ -69,3 +69,5 @@ Learn how to detect and debunk fake news with the Get Smart with Sherlock fact-c
 The kit features Sherlock, your friendly neighbourhood detective, who will help you understand online falsehoods and give you tips and clues on how to spot it.
 
 [Back to Top](#top)
+
+![logos](/images/IMDA_Logo_v1.png)

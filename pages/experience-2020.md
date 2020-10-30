@@ -61,6 +61,13 @@ Fit a radio collar to an elephant to gain crucial data on how to protect these e
     <td class="tg-0pky">Bajau Sea – The Last Sea Wanderers</td>
     <td class="tg-0pky">Eco-activist and adventurer Nadine Chandrawinata embarks on a journey of discovery to learn how one of the world’s last sea gypsy tribes still survives despite the pressures of the modern world.</td>
   </tr>
+    <tr>
+    <td class="tg-0pky">TOUCH Community</td>
+    <td class="tg-0pky">Depression</td>
+    <td class="tg-0pky">Mental health is an important component of our lives. However, many of us are misinformed about the signs, symptoms and causes of mental illnesses, thereby contributing to its stigma. However, through education, we can change our negative perceptions and increase our level of empathy for those living with mental health issues. Through this 2-minute video, you will walk in the shoes of someone with depression and gain a first-hand experience of the common signs and symptoms of the condition. You will also observe how the community should respond when someone is in distress.  
+&#91;Age Rating: 10 years old and above; Children between the ages of 10 to 12 must be accompanied by an adult during the VR experience&#93; 
+</td>
+  </tr>
 </table>
 
 
@@ -71,13 +78,18 @@ Fit a radio collar to an elephant to gain crucial data on how to protect these e
 
 ![2](/images/experience/ESports.jpg)
 
-Gather your friends and watch Singapore’s first 'League of Legends: Wild Rift' tournament. Witness the community teams battle it out and claim the title of the nation's inaugural Wild Rift champions! 
-
-<b>Family and Influencer Engagement</b><br> 
-Pit your gaming skills against renowned gaming influencers, or against other families, and stand a chance to win exciting prizes! 
-
-<b>Panel Session</b><br> 
-If you are curious about all things eSports, join this session to find out about responsible gaming, developing a professional career in eSports and the future of eSports in Singapore.
+<b>Wild Rift Community Open: Singapore</b><br>
+The first Wild Rift tournament ever to be hosted in Singapore. This wildly anticipated Riot Games title officially launched in the region recently and Redd+E in partnership with IMDA is proud to bring you the Wild Rift Community Open: Singapore! Watch 128 teams based in Singapore battle it out to be crowned as the 1st community winner! Be entertained with streamers from the region fight it out in a showmatch for bragging rights.
+ 
+Sign up and stand a chance to win the grand prize of $500/- and other exciting prizes! Registration will commence from the week of 9 Nov onwards.
+ 
+<b>Influencer Engagement</b><br>
+Pit your gaming skills against renowned gaming influencers, or against other families, and stand a chance to win exciting prizes!
+ 
+<b>Panel Session – Parenting in Esports: What You Need to Know</b><br>
+More youths are into esports, but how do parents get involved too? Come join us in a discussion to learn more about the Esports landscape in Singapore and discover how parents can provide to our youths pursuing Esports.
 
 
 [Back to Top](#top)
+
+![logos](/images/IMDA_Logo_v1.png)

@@ -12,6 +12,6 @@ Organised by the Infocomm Media Development Authority, SG:Digital Wonderland is 
 
 Explore the latest technology to see what it is like to live in a digital future, and try the interactive experiences to discover how technology is positively changing the way we live, work and play.  Whether you are young or young-at-heart, there would be something for everyone, come and Discover, Experience and Innovate with new and exciting tech at SG:D Wonderland!
 
-![1](/images/sgdw-organiser-logos.001.jpeg)
+![logos](/images/IMDA_Logo_v1.png)
 
 

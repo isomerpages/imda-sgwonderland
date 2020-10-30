@@ -28,33 +28,23 @@ navlinks:
         url: /discover-2020#1
       - title: Future Ready Living
         url: /discover-2020#2
-  - title: Custom Sublinks
-    url: /some-page-a/
+  - title: Experience
+    url: /experience-2020
     sublinks:
-      - title: Subitem 1
-        url: /some-page-a/
-      - title: Subitem 2
-        url: /some-page-b/
-      - title: Subitem 3
-        url: /some-page-c/
-  - title: Custom Sublinks
-    url: /some-page-a/
+      - title: VR Watch Party
+        url: /experience-2020#1
+      - title: eSports Stadia
+        url: /experience-2020#2
+  - title: Innovate
+    url: innovate-2020
+  - title: Stories
+    url: 
     sublinks:
-      - title: Subitem 1
-        url: /some-page-a/
-      - title: Subitem 2
-        url: /some-page-b/
-      - title: Subitem 3
-        url: /some-page-c/
-  - title: Custom Sublinks
-    url: /some-page-a/
-    sublinks:
-      - title: Subitem 1
-        url: /some-page-a/
-      - title: Subitem 2
-        url: /some-page-b/
-      - title: Subitem 3
-        url: /some-page-c/
+      - title: Features
+        url: /features/
+      - title: Media Coverage
+        url: /media-2019
+
 links:
   - title: Newsletter
     url: https://form.gov.sg/#!/5ce4f21a2305a40017faf7b0

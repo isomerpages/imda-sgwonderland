@@ -17,6 +17,22 @@ Gearing up for the digital future?  Discover the art of digital parenting, or sh
 
 Learn the art of digital parenting with the Media Literacy Council and industry experts from TikTok and LEGO! 
 
+#### Webinar 1<br>
+![tiktok](/images/discover/TikTok-Logo-vertical.png)
+<b>A Tikin’ Good Time: Social Media as a Family Affair</b><br>
+<b>2.00pm to 3.00pm, Saturday, 28 November 2020</b><br> 
+As social media usage rises during these times, new trends have emerged and platforms like TikTok have seen a record number of downloads. If you are a parent who wants to understand what TikTok is about, then this webinar is for you!.<br> 
+Organised by the Media Literacy Council (MLC) in collaboration with TikTok, the webinar will teach parents how to enhance family bonding time through fun activities that can be done on the video-sharing app. Learn from MLC and TikTok’s panel of experts as they share their tips on best practices to engage children on digital literacy topics, as well as best practices to ensure responsible and safe usage of social media. [Register today!](){:target="_blank"}
+
+#### Webinar 2<br>
+![lego](/images/discover/lego-srgb_L.png)<br>
+<b>Build Them Up! Teach Children Digital Literacy Through Play</b><br>
+<b>4.00pm to 5.00pm, Saturday, 28 November 2020</b><br>
+The use of technology has allowed parents and children to be increasingly linked through the proliferation of apps, channels and platforms. This necessity to be online also presents a new set of issues for parents, such as difficulty in engaging their children on digital literacy topics due to their intangibility. Research by Kapersky has shown that parents spend just 46 minutes talking to their children about online risks throughout their entire childhood as they find it difficult to express the risks in a relatable way.<br> 
+To enable children to maximise the immense learning and development benefits that can be achieved through digital experiences, it is equally important for children to be educated on the associated risks of online experiences and how to navigate the online environment in a safe manner.  By using creative and play-based techniques to bring these concepts to life, kids will have a better understanding of what to look out for when they navigate the internet to be safe, be smart and be kind.<br> 
+This webinar, presented by the LEGO Group and the Media Literacy Council, will provide insights to how technology has changed parent’s and children’s digital literacy habits, practical tips, and activities for parents and educators to engage children on digital literacy and safety topics through playful experiences. [Register today!](){:target="_blank"}
+
+*Both webinars are conducted on zoom and require pre-registration.*<br>
 [Back to Top](#top)
 
 <a name="2"></a><br>
@@ -24,17 +40,9 @@ Learn the art of digital parenting with the Media Literacy Council and industry 
 
 ![4](/images/discover/Future Ready Living.jpg)
 
-Shop for the latest tech gadgets and innovations on Shopee! Catch Benzo & Chrysan from WahBanana on Shopee Live on 28 Nov, 9pm as they show how these smart living and lifestyle devices can help us in our everyday lives! 
+Shop for the latest tech gadgets and innovations on Shopee! Catch <b>Benzo & Chrysan</b> from <b>WahBanana</b> on [Shopee Live](){:target="_blank"} on <b>28 Nov, 6pm</b> as they show how these smart living and lifestyle devices can help us in our everyday lives! 
 
-| Featured Partner | Featured Device | Summary |
-| --- | --- | --- |
-| AICO Technologies | Smart Egg - Personal Control Center | The AICO Smart Egg is a universal remote control that allows you to control any infrared electronic devices from your smartphone. It enables seamless home automation without the need to upgrade to "smart" devices. |
-| Bekind Solutions | Agegracefully Smart Walking Stick | A walking stick disguised as an umbrella that is lightweight, has an anti-slip self-standing tip, an intelligent auto-fall alarm that will signal for help when triggered and also includes a built-in MP3 player-cum-radio. |
-| Newton’s Meter | Newton's Meter | A 24/7 personal SOS device that automatically sends SOS messages with GPS coordinates to 10 pre-configured phone numbers and emergency services when triggered during any kind of accidents and emergency situations such as car crash or theft. |
-| Carmen Automotive  | Carmen | Carmen is a device that monitors the car’s condition in real-time and predicts potential problems before it happens. With the device, car owners can better manage car problems, reduce maintenance cost and avoid breakdowns. |
-| Alpha Matrix Marketing  | Rocketbook | The Rocketbook Core notebook is a reusable notebook that provides a classic paper and pen writing experience. Paired with an app, your written notes can be easily scanned and uploaded to cloud services. |
-| Alpha Matrix Marketing  | uHoo | uHoo is a smart air sensor that understands the air you breathe and helps you create healthier habits in the home to prevent colds, coughs, flu, asthma and other allergies. |
-| GeneLife | GeneLife at-home DNA tests | The GeneLife at-home DNA tests enable you to manage your health and wellness simply by harnessing information from just a sample of your saliva.  |
-| Smartpaw | Skymee Owl Robot Camera and Treat Dispenser  |  |
-
+![infographic](/images/discover/Future Ready Living infographic.png)
 [Back to Top](#top)
+
+![logos](/images/IMDA_Logo_v1.png)

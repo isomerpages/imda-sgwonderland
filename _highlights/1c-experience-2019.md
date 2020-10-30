@@ -110,3 +110,5 @@ A myriad of drones flying activities awaits you at the upsized Drones Arcade!
 Note: Recommended age is 4 years and above. Kids below 12 years must be accompanied with a parent/guardian.
 
 [Back to Top](#top)
+
+![logos](/images/IMDA_Logo_v1.png)
