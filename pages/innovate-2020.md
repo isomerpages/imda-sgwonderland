@@ -6,7 +6,7 @@ third_nav_title: 'Innovate Zone'
 
 ---
 
-Create, tinker and have fun learning about emerging technologies such as Artificial Intelligence and Immersive Media through fun and engaging workshops at no cost! Be creative and build your own Virtual Reality World, or dive in the world of AI with Minecraft. Workshops are free, but registration is required. Vacancies are on a first come, first served basis. [Register today!]{:target="_blank"} 
+Create, tinker and have fun learning about emerging technologies such as Artificial Intelligence and Immersive Media through fun and engaging workshops at no cost! Be creative and build your own Virtual Reality World, or dive in the world of AI with Minecraft. Workshops are free, but registration is required. Vacancies are on a first come, first served basis. [Register today!](){:target="_blank"} 
 
 
 ### **Emerging Tech Workshops**
@@ -46,7 +46,7 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 Kickstart your digital storytelling journey here and take part in the first “Making a Millionaire Creator”  contest jointly organised by IMDA, NasStudios and NasAcademy and stand a chance to turn your script into a video and win attractive prizes. Join us in the workshop taught by the experts from NasAcademy and learn useful tips and tricks for your next big story.
 
 <u><b>Workshop</b></u><br>
-Learn what it takes to tell good stories that can engage, relate and impact from the experts at NasAcademy. Happening on 28 Nov at 10am, details of the contest will be shared at the end of the workshop. [Sign up]{:target="_blank"} now!
+Learn what it takes to tell good stories that can engage, relate and impact from the experts at NasAcademy. Happening on 28 Nov at 10am, details of the contest will be shared at the end of the workshop. [Sign up](){:target="_blank"} now!
 
 <u><b>Contest</b></u><br>
 Stand a chance to work with the professionals at the Nas Studios to turn your script into a video. Win attractive prizes and make your storytelling dream come true. Details of the contest will be shared at the workshop.
