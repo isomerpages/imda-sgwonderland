@@ -78,13 +78,16 @@ Fit a radio collar to an elephant to gain crucial data on how to protect these e
 
 ![2](/images/experience/ESports.jpg)
 
-Gather your friends and watch Singapore’s first 'League of Legends: Wild Rift' tournament. Witness the community teams battle it out and claim the title of the nation's inaugural Wild Rift champions! 
-
-<b>Family and Influencer Engagement</b><br> 
-Pit your gaming skills against renowned gaming influencers, or against other families, and stand a chance to win exciting prizes! 
-
-<b>Panel Session</b><br> 
-If you are curious about all things eSports, join this session to find out about responsible gaming, developing a professional career in eSports and the future of eSports in Singapore.
+<b>Wild Rift Community Open: Singapore</b><br>
+The first Wild Rift tournament ever to be hosted in Singapore. This wildly anticipated Riot Games title officially launched in the region recently and Redd+E in partnership with IMDA is proud to bring you the Wild Rift Community Open: Singapore! Watch 128 teams based in Singapore battle it out to be crowned as the 1st community winner! Be entertained with streamers from the region fight it out in a showmatch for bragging rights.
+ 
+Sign up and stand a chance to win the grand prize of $500/- and other exciting prizes! Registration will commence from the week of 9 Nov onwards.
+ 
+<b>Influencer Engagement</b><br>
+Pit your gaming skills against renowned gaming influencers, or against other families, and stand a chance to win exciting prizes!
+ 
+<b>Panel Session – Parenting in Esports: What You Need to Know</b><br>
+More youths are into esports, but how do parents get involved too? Come join us in a discussion to learn more about the Esports landscape in Singapore and discover how parents can provide to our youths pursuing Esports.
 
 
 [Back to Top](#top)
