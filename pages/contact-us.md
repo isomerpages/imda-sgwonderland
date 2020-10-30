@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact
 permalink: /contact-us/
-agency_name: SG Women in Tech
+agency_name: Infocomm Media Development Authority
 locations:
   - title: HQ Address
     address:
