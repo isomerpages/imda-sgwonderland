@@ -6,23 +6,31 @@ third_nav_title: 'Innovate Zone'
 
 ---
 
-Create, tinker and have fun learning about emerging technologies such as Artificial Intelligence and Immersive Media at free workshop or get creative and join an exclusive digital storytelling contest to win attractive prizes!
+Create, tinker and have fun learning about emerging technologies such as Artificial Intelligence and Immersive Media through fun and engaging workshops at no cost! Be creative and build your own Virtual Reality World, or dive in the world of AI with Minecraft. Workshops are free, but registration is required. Vacancies are on a first come, first served basis. [Register today!]{:target="_blank"} 
 
-### **Workshops**
+
+### **Emerging Tech Workshops**
 
 ![1](/images/innovate/Workshop.jpg)
 
 Create, tinker and have fun learning about emerging technologies such as Artificial Intelligence and Immersive Media through fun and engaging workshops at no cost! Be creative and build your own Virtual Reality World, or dive in the world of AI with Minecraft. Workshops are free, but registration is required. Vacancies are on a first come, first served basis. 
 
-**Virtual**
+**Virtual Workshops**
 
-| Date & Time | Workshop | Age Group | Partners |
+| Date & Time | Age Group | Workshop | Partner |
 | --- | --- | --- | --- |
-| 28 Nov |  |  |  |
+| 28 Nov, 1000-1100 | 10 -12 years | Build your own Chatbot with SCRATCH 3.0 | [KIDSCODE](http://www.kidscode.sg/){:target="_blank"} |
+| 28 Nov, 1100-1200 | Parent-child | Automate your home with IOT | [A posteriorie](http://www.aposteriori.com.sg/){:target="_blank"} |
+| 28 Nov, 1400-1500 | 7-9 years | 	A Zero Waste Campaign with Image Recognition | [Steam Academy](http://www.stemacademy.sg/){:target="_blank"} |
+| 28 Nov, 1500-1600 | 10 -12 years | Build your own Virtual Reality (VR) World | [Kodecoon](http://www.kodecoonacademy.com/){:target="_blank"} |
+| 29 Nov, 1000-1100 | 10 -12 years | Masked Warriors Galore! | [Coding Lab](http://www.codinglab.com.sg/){:target="_blank"} |
+| 29 Nov, 1100-1200 | 10 -12 years | Learning AI and Coding with Minecraft | [Zenitant](https://www.zenitanteducation.com/){:target="_blank"} |
+| 29 Nov, 1400-1500 | Parent-child | Create a VR Zoo with CoSpaces | [Roboto](http://www.roboto.sg/){:target="_blank"} |
+| 29 Nov, 1500-1615 | Parent-child | Intro to Augmented Reality: Welcome to Your World | [Makerologie](http://www.makerologie.com/){:target="_blank"} |
 
-**Physical**
+**Physical Workshops**
 
-| Date & Time | Workshop | Age Group | Partners |
+| Date & Time | Age Group | Workshop | Partner |
 | --- | --- | --- | --- |
 | 29 Nov |  |  |  |
 
