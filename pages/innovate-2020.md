@@ -39,10 +39,16 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 | 29 Nov, 1500-1630 | 10 -12 years | Obstacle Avoidance with Qdee | [Tinkermind](https://my-sgdcs.sgnet.gov.sg/personal/imda-ysoh/Documents/SGDW20/SGDW2020%20--%20Docs%20for%20sharing/tinkermind.sg){:target="_blank"} |
 
 
-### **Making a Millionare Creator Workshop & Contest**
+### **Storytelling Workshop**
 
 ![2](/images/innovate/Storytelling.jpg)
 
-Kickstart your digital storytelling journey and take part in the first “Making a Millionaire Creator” workshop and contest by IMDA and NasStudios and stand a chance to win attractive prizes. Join us in the pre-contest workshop taught by the experts from NasAcademy and learn useful tips and tricks for your next big story. 
+Kickstart your digital storytelling journey here and take part in the first “Making a Millionaire Creator”  contest jointly organised by IMDA, NasStudios and NasAcademy and stand a chance to turn your script into a video and win attractive prizes. Join us in the workshop taught by the experts from NasAcademy and learn useful tips and tricks for your next big story.
+
+<u><b>Workshop</b></u><br>
+Learn what it takes to tell good stories that can engage, relate and impact from the experts at NasAcademy. Happening on 28 Nov at 10am, details of the contest will be shared at the end of the workshop. [Sign up]{:target="_blank"} now!
+
+<u><b>Contest</b></u><br>
+Stand a chance to work with the professionals at the Nas Studios to turn your script into a video. Win attractive prizes and make your storytelling dream come true. Details of the contest will be shared at the workshop.
 
 ![logos](/images/IMDA_Logo_v1.png)
