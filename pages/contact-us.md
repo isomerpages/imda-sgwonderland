@@ -2,6 +2,8 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
+
+---  
 agency_name: Infocomm Media Development Authority
 locations:
   - title: HQ Address
@@ -22,7 +24,6 @@ contacts:
     - phone: +65 6377 3800
     - email: digital_wonderland@imda.gov.sg
     - other: 
----  
     If you have a query, feedback or wish to report a problem related to this website, please fill in the [online form] (https://form.gov.sg/#!/5a9ce876b3a3b6006e6b8335){:target="_blank"}
 
 
