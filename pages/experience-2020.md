@@ -17,8 +17,7 @@ Look forward to a plethora of fun and excitement from catching exclusive Virtual
 
 Put on your VR goggles and sign up for Singapore’s first Virtual Reality (VR) Watch Party! Experience life in a water village or immerse yourself in a joyous African festival as you catch all these never-seen-before, exclusive VR and 360&#176; content. Participants will also get to meet and interact with the content creators themselves. All in the comfort of your home!<br> 
 
-No VR goggles? Get two Google Cardboard headsets for FREE per household! Limited headsets available on a first come, first serve basis.
-
+No VR goggles? Get two Google Cardboard headsets for FREE per household! Limited headsets available on a first come, first serve basis. [Get them now!](){:target="_blank"}
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
