@@ -27,9 +27,10 @@ Learn the art of digital parenting with the Media Literacy Council and industry 
 <b>2.00pm to 3.00pm, Saturday, 28 November 2020</b><br> 
 As social media usage rises during these times, new trends have emerged and platforms like TikTok have seen a record number of downloads. If you are a parent who wants to understand what TikTok is about, then this webinar is for you!.<br> 
 Organised by the Media Literacy Council (MLC) in collaboration with TikTok, the webinar will teach parents how to enhance family bonding time through fun activities that can be done on the video-sharing app. Learn from MLC and TikTok’s panel of experts as they share their tips on best practices to engage children on digital literacy topics, as well as best practices to ensure responsible and safe usage of social media. [Register today!](){:target="_blank"}
-</div>
+<br>
 
 #### Webinar 2<br>
+</div>
 <div class="column"><img src="/images/discover/lego-srgb_L.png">
   </div><br>
 <div class="column1"><b>Build Them Up! Teach Children Digital Literacy Through Play</b><br>
