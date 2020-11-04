@@ -1,5 +1,5 @@
 ---
-title: 'Innovate Zone 2020'
+title: 'Innovate Zone'
 permalink: /innovate-2020
 breadcrumb: 'Innovate 2020'
 third_nav_title: 'Innovate Zone'
