@@ -19,7 +19,7 @@ Learn the art of digital parenting with the Media Literacy Council and industry 
 
 #### Webinar 1
 
-<img src="/images/discover/TikTok-Logo-vertical.png" style="width:30rem"><br> 
+<img src="/images/discover/TikTok-Logo-vertical.png" style="width:25rem"><br> 
 
 <b>A Tikin’ Good Time: Social Media as a Family Affair</b><br>
 <b>2.00pm to 3.00pm, Saturday, 28 November 2020</b><br> 
@@ -29,7 +29,7 @@ Organised by the Media Literacy Council (MLC) in collaboration with TikTok, the 
 
 #### Webinar 2
 
-<img src="/images/discover/lego-srgb_L.png" style="width:30rem"><br>
+<img src="/images/discover/lego-srgb_L.png" style="width:25rem"><br>
 
 <b>Build Them Up! Teach Children Digital Literacy Through Play</b><br>
 <b>4.00pm to 5.00pm, Saturday, 28 November 2020</b><br>
