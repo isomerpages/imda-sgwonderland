@@ -17,6 +17,36 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 
 **Virtual Workshops**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Lato;font-size:16px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Lato;font-size:16px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-y698" colspan="5"><b>28 Nov</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>Time</b></td>
+    <td class="tg-0pky"><b>Age Group</b></td>
+    <td class="tg-0pky"><b>Workshop</b></td>
+    <td class="tg-0pky"><b>Synopsis</b></td>
+    <td class="tg-0pky"><b>Partner</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="5">Virtual Workshops<br>All workshops will be held using Zoom</td>
+    </td>
+  <tr>
+    <td class="tg-0pky">1000-1100</td>
+    <td class="tg-0pky">10 -12 years</td>
+    <td class="tg-0pky">Build your own Chatbot with SCRATCH 3.0</td>
+  <td class="tg-0pky">Build a chatbot that provides advice on common illnesses and learn the concept of Artificial Intelligence with SCRATCH 3.0. See how chatbots can help people answer frequently-asked questions and improve efficiency in our lives.</td>
+  <td class="tg-0pky"><a href="http://www.kidscode.sg/" target="_blank">KIDSCODE</a></td>
+  </tr>
+  </table>
+
 | Date & Time | Age Group | Workshop | Partner |
 | --- | --- | --- | --- |
 | 28 Nov, 1000-1100 | 10 -12 years | Build your own Chatbot with SCRATCH 3.0 | [KIDSCODE](http://www.kidscode.sg/){:target="_blank"} |
