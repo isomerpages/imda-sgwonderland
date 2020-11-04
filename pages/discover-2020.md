@@ -15,7 +15,7 @@ Gearing up for the digital future? Discover the art of digital parenting with th
 
 ![3](/images/discover/Parenting.jpg)
 
-Learn the art of digital parenting with the Media Literacy Council and industry experts from TikTok and LEGO! <br>
+Learn the art of digital parenting with the Media Literacy Council and industry experts from TikTok and LEGO! <br><br>
 
 <div class="row">
 
@@ -34,7 +34,7 @@ Organised by the Media Literacy Council (MLC) in collaboration with TikTok, the 
 </div>
 
 <div class="row"> 
-<h4> Webinar 2</h4>
+<br><h4> Webinar 2</h4>
 </div>           
 <div class="row">
 <div class="column">
@@ -57,7 +57,7 @@ This webinar, presented by the LEGO Group and the Media Literacy Council, will p
 <div class="column1">
 <a name="2"></a><br>
 
-<h3><b>Future Ready Living</b></h3><br>
+<h3><b>Future Ready Living</b></h3>
 
 <img src="/images/discover/Future Ready Living.jpg"><br>
 
