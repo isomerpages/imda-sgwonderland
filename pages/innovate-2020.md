@@ -15,7 +15,8 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 
 Create, tinker and have fun learning about emerging technologies such as Artificial Intelligence, Immersive Media or Internet of Things at free workshops or get creative and join an exclusive digital storytelling contest and stand to win a chance to get your video featured and other attractive prizes! 
 
-**Virtual Workshops**
+<div class="row">
+  <b>Virtual Workshops</b>
 
 <table>
   <tr>
@@ -38,6 +39,7 @@ Create, tinker and have fun learning about emerging technologies such as Artific
   <td><a href="http://www.kidscode.sg/" target="_blank">KIDSCODE</a></td>
   </tr>
 </table>
+</div>
 
 <div class="row">
 ### **Storytelling Workshop**
