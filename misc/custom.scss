@@ -381,3 +381,8 @@ $desktop: 960px + (2 * $gap) !default;
 	overflow: visible;
 	
 }
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
