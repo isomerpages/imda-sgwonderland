@@ -47,6 +47,6 @@ This webinar, presented by the LEGO Group and the Media Literacy Council, will p
 
 Shop for the latest tech gadgets and innovations on Shopee! Catch <b>Benzo & Chrysan</b> from <b>WahBanana</b> on [Shopee Live](){:target="_blank"} on <b>28 Nov, 6pm</b> as they show how these smart living and lifestyle devices can help us in our everyday lives! 
 
-<img src="/images/discover/Future Ready Living infographic.png"><br>
+<img src="/images/discover/Future Ready Living Draft v3.png"><br>
 [Back to Top](#top)
 
