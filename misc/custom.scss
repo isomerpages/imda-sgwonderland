@@ -380,6 +380,12 @@ $desktop: 960px + (2 * $gap) !default;
 	overflow: visible;
 	
 }
+.column1 {
+  margin: auto;
+  width: 100%;
+	overflow: visible;
+	
+}
 .row:after {
   content: "";
   display: table;
