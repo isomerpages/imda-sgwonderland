@@ -19,7 +19,7 @@ Learn the art of digital parenting with the Media Literacy Council and industry 
 
 #### Webinar 1<br>
 
-<div class="column"><img src="/images/discover/TikTok-Logo-vertical.png"></div>
+<div class="row"><div class="column"><img src="/images/discover/TikTok-Logo-vertical.png"></div>
  
 <b>A Tikin’ Good Time: Social Media as a Family Affair</b><br>
 <b>2.00pm to 3.00pm, Saturday, 28 November 2020</b><br> 
@@ -47,3 +47,4 @@ Shop for the latest tech gadgets and innovations on Shopee! Catch <b>Benzo & Chr
 ![infographic](/images/discover/Future Ready Living infographic.png)
 [Back to Top](#top)
 
+</div>
