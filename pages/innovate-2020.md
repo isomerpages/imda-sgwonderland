@@ -94,6 +94,75 @@ Create, tinker and have fun learning about emerging technologies such as Artific
   </tr>
 </table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Lato;font-size:16px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Lato;font-size:16px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-y698" colspan="2"><b>29 Nov</b></th><th class="tg-y698" colspan="3"> </th>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>Time</b></td>
+    <td class="tg-0pky"><b>Age Group</b></td>
+    <td class="tg-0pky"><b>Workshop</b></td>
+    <td class="tg-0pky"><b>Synopsis</b></td>
+    <td class="tg-0pky"><b>Partner</b></td>
+  </tr>
+   <tr>
+     <td class="tg-0pky" colspan="4"> <b>Virtual Workshops</b> <br> All workshops will be held using Zoom</td>
+     <td class="tg-0pky" colspan="1"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">1000-1100</td>
+    <td class="tg-0pky">10 -12 years</td>
+    <td class="tg-0pky">Masked Warriors Galore!</td>
+    <td class="tg-0pky">Train your computer to recognise faces with and without masks using the Teachable Machine. Learn about the concept of Machine Learning and building datasets. Discover about Artificial Intelligence and have fun along the way!</td>
+    <td class="tg-0pky"><a href="http://www.codinglab.com.sg/" target="_blank">Coding Lab</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">1100-1200</td>
+    <td class="tg-0pky">10 -12 years</td>
+    <td class="tg-0pky">Learning AI and Coding with Minecraft</td>
+    <td class="tg-0pky">Save the forest with coding helper, the Minecraft Agent, by collecting data and predict where fires will occur. Learn the basics of coding and explore a real-world example of Artificial Intelligence with Minecraft.</td>
+    <td class="tg-0pky"><a href="https://www.zenitanteducation.com/" target="_blank">Zenitant</a></td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">1400-1500</td>
+    <td class="tg-0pky">Parent-child</td>
+    <td class="tg-0pky">Create a VR Zoo with CoSpaces</td>
+    <td class="tg-0pky">Create a Virtual Reality zoo and learn about 3D design, modelling and basic block-based coding principles. Immerse in your creation with a VR Cardboard goggle and see how CoSpaces Edu can be used for real-world applications.</td>
+    <td class="tg-0pky"><a href="http://www.roboto.sg/" target="_blank">Roboto</a></td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">1500-1615</td>
+    <td class="tg-0pky">Parent-child</td>
+    <td class="tg-0pky">Intro to Augmented Reality: Welcome to Your World</td>
+    <td class="tg-0pky">Enter the world of Augmented Reality and create interactive experiences with the AR Makr app. Learn about creating and interacting with 2D and 3D objects, and be inspired by resources to continue your exploration beyond the workshop.</td>
+    <td class="tg-0pky"><a href="http://www.makerologie.com/" target="_blank">Makerologie</a></td>
+  </tr>
+     <tr>
+     <td class="tg-0pky" colspan="4"> <b>Physical Workshops</b> <br> All physical workshops will be conducted at MakeIT at Tampines Regional Library</td>
+     <td class="tg-0pky" colspan="1"> </td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">1030-1200</td>
+    <td class="tg-0pky">10 -12 years</td>
+    <td class="tg-0pky">Artificial Intelligence of Things (AIoT) with micro:bit</td>
+    <td class="tg-0pky">Get hands on with a micro:bit and learn about Artificial Intelligence using HuskyLens to recognize faces and send data to a cloud dashboard. See how Artificial Intelligence of Things can be achieved with a micro:bit!</td>
+    <td class="tg-0pky"><a href="https://my-sgdcs.sgnet.gov.sg/personal/imda-ysoh/Documents/SGDW20/SGDW2020 -- Docs for sharing/kuriosity.sg" target="_blank">Kuriosity</a></td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">1500-1630</td>
+    <td class="tg-0pky">10 -12 years</td>
+    <td class="tg-0pky">Obstacle Avoidance with Qdee</td>
+    <td class="tg-0pky">Join us for a fun, hands-on robotics session with Qdee, a micro:bit powered robotics kit. Program Qdee to move and sense its environment using MakeCode, and have an anti-bumper car challenge! With many robots in an environment, how will you design your program to safely navigate our space?  </td>
+    <td class="tg-0pky"><a href="https://www.facebook.com/groups/MakeIT.sg" target="_blank">Tinkermind</a></td>
+  </tr>
+</table>
 ### **Storytelling Workshop**
 
 ![2](/images/innovate/Storytelling.jpg)
