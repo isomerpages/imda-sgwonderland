@@ -37,6 +37,11 @@ navlinks:
         url: /experience-2020#2
   - title: Innovate
     url: innovate-2020
+    sublinks:
+      - title: Emerging Tech Workshops
+        url: /innovate-2020#1
+      - title: Making a Millionaire Creator Workshop & Contest
+        url: /innovate-2020#2
   - title: Stories
     url: 
     sublinks:
