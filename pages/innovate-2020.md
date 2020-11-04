@@ -93,7 +93,7 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td class="tg-0pky"><a href="https://sjcosmofuture.com/" target="_blank">SJ Cosmo Future</a></td>
   </tr>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Lato;font-size:16px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -163,15 +163,15 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td class="tg-0pky"><a href="https://www.facebook.com/groups/MakeIT.sg" target="_blank">Tinkermind</a></td>
   </tr>
 </table>
-### **Storytelling Workshop**
+### **Making a Millionaire Creator Workshop & Contest**
 
-![2](/images/innovate/Storytelling.jpg)
+![2](/images/innovate/2020_10_IMDA_Millionaire_ads_NA no logo.jpg)
 
-Kickstart your digital storytelling journey here and take part in the first “Making a Millionaire Creator”  contest jointly organised by IMDA, NasStudios and NasAcademy and stand a chance to turn your script into a video and win attractive prizes. Join us in the workshop taught by the experts from NasAcademy and learn useful tips and tricks for your next big story.
+Kickstart your digital storytelling journey and take part in the first “Making a Millionaire Creator” contest jointly organised by IMDA and NasAcademy. Stand a chance to turn your script into a video and win attractive prizes. Join us in the workshop taught by the experts from NasAcademy and learn useful tips and tricks for your next big story. 
 
 <u><b>Workshop</b></u><br>
-Learn what it takes to tell good stories that can engage, relate and impact from the experts at NasAcademy. Happening on 28 Nov at 10am, details of the contest will be shared at the end of the workshop. [Sign up](https://www.google.com){:target="_blank"} now!
+Learn what it takes to tell good stories that can engage, relate and impact from the experts at NasAcademy on 28 Nov at 10am. Details of the contest will be shared at the end of the workshop. [Sign up](https://www.google.com){:target="_blank"} now!
 
 <u><b>Contest</b></u><br>
-Stand a chance to work with the professionals at the Nas Studios to turn your script into a video. Win attractive prizes and make your storytelling dream come true. Details of the contest will be shared at the workshop.
+Stand a chance to work with the and turn your script into a video. Win attractive prizes and make your storytelling dream come true. Details of the contest will be shared at the workshop. 
 
