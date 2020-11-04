@@ -23,6 +23,7 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 .tg th{font-family:Lato;font-size:16px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-y699{background-color:#6e358e;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-y690{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}  
 </style>
 <table class="tg">
   <tr>
@@ -36,8 +37,8 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td class="tg-0pky"><b>Partner</b></td>
   </tr>
    <tr>
-     <td class="tg-0pky" colspan="4"> <b>Virtual Workshops</b> <br> All workshops will be held using Zoom</td>
-     <td class="tg-0pky" colspan="1"> </td>
+     <td class="tg-y690" colspan="4"> <b>Virtual Workshops</b> <br> All workshops will be held using Zoom</td>
+     <td class="tg-y690" colspan="1"> </td>
   </tr>
   <tr>
     <td class="tg-0pky">1000-1100</td>
@@ -68,8 +69,8 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td class="tg-0pky"><a href="http://www.kodecoonacademy.com/" target="_blank">Kodecoon</a></td>
   </tr>
      <tr>
-     <td class="tg-0pky" colspan="4"> <b>Physical Workshops</b> <br> All physical workshops will be conducted at MakeIT at Tampines Regional Library</td>
-     <td class="tg-0pky" colspan="1"> </td>
+     <td class="tg-y690" colspan="4"> <b>Physical Workshops</b> <br> All physical workshops will be conducted at MakeIT at Tampines Regional Library</td>
+     <td class="tg-y690" colspan="1"> </td>
   </tr>
     <tr>
     <td class="tg-0pky">1030-1200</td>
@@ -113,8 +114,8 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td class="tg-0pky"><b>Partner</b></td>
   </tr>
    <tr>
-     <td class="tg-0pky" colspan="4"> <b>Virtual Workshops</b> <br> All workshops will be held using Zoom</td>
-     <td class="tg-0pky" colspan="1"> </td>
+     <td class="tg-y690" colspan="4"> <b>Virtual Workshops</b> <br> All workshops will be held using Zoom</td>
+     <td class="tg-y690" colspan="1"> </td>
   </tr>
   <tr>
     <td class="tg-0pky">1000-1100</td>
@@ -145,8 +146,8 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td class="tg-0pky"><a href="http://www.makerologie.com/" target="_blank">Makerologie</a></td>
   </tr>
      <tr>
-     <td class="tg-0pky" colspan="4"> <b>Physical Workshops</b> <br> All physical workshops will be conducted at MakeIT at Tampines Regional Library</td>
-     <td class="tg-0pky" colspan="1"> </td>
+     <td class="tg-y690" colspan="4"> <b>Physical Workshops</b> <br> All physical workshops will be conducted at MakeIT at Tampines Regional Library</td>
+     <td class="tg-y690" colspan="1"> </td>
   </tr>
     <tr>
     <td class="tg-0pky">1030-1200</td>
