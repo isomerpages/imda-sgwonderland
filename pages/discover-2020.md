@@ -28,28 +28,30 @@ Learn the art of digital parenting with the Media Literacy Council and industry 
 As social media usage rises during these times, new trends have emerged and platforms like TikTok have seen a record number of downloads. If you are a parent who wants to understand what TikTok is about, then this webinar is for you!.<br> 
 Organised by the Media Literacy Council (MLC) in collaboration with TikTok, the webinar will teach parents how to enhance family bonding time through fun activities that can be done on the video-sharing app. Learn from MLC and TikTok’s panel of experts as they share their tips on best practices to engage children on digital literacy topics, as well as best practices to ensure responsible and safe usage of social media. [Register today!](){:target="_blank"}
 <br>
-
-#### Webinar 2<br>
 </div>
+
+<div class="column1"> <h4>Webinar 2</h4><br>
+</div>           
 <div class="column"><img src="/images/discover/lego-srgb_L.png">
   </div><br>
 <div class="column1"><b>Build Them Up! Teach Children Digital Literacy Through Play</b><br>
 <b>4.00pm to 5.00pm, Saturday, 28 November 2020</b><br>
 The use of technology has allowed parents and children to be increasingly linked through the proliferation of apps, channels and platforms. This necessity to be online also presents a new set of issues for parents, such as difficulty in engaging their children on digital literacy topics due to their intangibility. Research by Kapersky has shown that parents spend just 46 minutes talking to their children about online risks throughout their entire childhood as they find it difficult to express the risks in a relatable way.<br> 
 To enable children to maximise the immense learning and development benefits that can be achieved through digital experiences, it is equally important for children to be educated on the associated risks of online experiences and how to navigate the online environment in a safe manner.  By using creative and play-based techniques to bring these concepts to life, kids will have a better understanding of what to look out for when they navigate the internet to be safe, be smart and be kind.<br> 
-This webinar, presented by the LEGO Group and the Media Literacy Council, will provide insights to how technology has changed parent’s and children’s digital literacy habits, practical tips, and activities for parents and educators to engage children on digital literacy and safety topics through playful experiences. [Register today!](){:target="_blank"}
+This webinar, presented by the LEGO Group and the Media Literacy Council, will provide insights to how technology has changed parent’s and children’s digital literacy habits, practical tips, and activities for parents and educators to engage children on digital literacy and safety topics through playful experiences. [Register today!](){:target="_blank"}<br>
 
 *Both webinars are conducted on zoom and require pre-registration.*<br>
 [Back to Top](#top)
 </div>
 <a name="2"></a><br>
-### **Future Ready Living**
 
-![4](/images/discover/Future Ready Living.jpg)
+<div class="column1"> <h3><b>Future Ready Living</b></h3><br>
+
+<img src="/images/discover/Future Ready Living.jpg">
 
 Shop for the latest tech gadgets and innovations on Shopee! Catch <b>Benzo & Chrysan</b> from <b>WahBanana</b> on [Shopee Live](){:target="_blank"} on <b>28 Nov, 6pm</b> as they show how these smart living and lifestyle devices can help us in our everyday lives! 
 
 ![infographic](/images/discover/Future Ready Living infographic.png)
 [Back to Top](#top)
-
+</div>
 </div>
