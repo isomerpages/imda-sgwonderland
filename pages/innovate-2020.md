@@ -20,13 +20,13 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Lato;font-size:16px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Lato;font-size:16px;font-weight:normal;font-color:whitepadding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Lato;font-size:16px;font-weight:normal;font-color:white;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-y699{background-color:#6e358e;border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-y699" colspan="2"><b>28 Nov</b></th><th class="tg-y698" colspan="3"> </th>
+    <th class="tg-y699" colspan="2"><b>28 Nov</b></th><th class="tg-y699" colspan="3"> </th>
   </tr>
   <tr>
     <td class="tg-0pky"><b>Time</b></td>
