@@ -19,7 +19,7 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 
 <table>
   <tr>
-    <th colspan="5"><b>28 Nov</th>
+    <th colspan="5"><b>28 Nov</b></th>
   </tr>
   <tr>
     <td><b>Time</b></td>
