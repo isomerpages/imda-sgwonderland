@@ -375,14 +375,14 @@ $desktop: 960px + (2 * $gap) !default;
 
 /* Start of Custom CSS - Columns */
 .column {
-  margin: auto;
-  width: 70%;
+  float: inherit;
+  width: 65%;
 	overflow: visible;
 	
 }
 .column1 {
   margin: auto;
-  width: 100%;
+  width: 90%;
 	overflow: visible;
 	
 }
