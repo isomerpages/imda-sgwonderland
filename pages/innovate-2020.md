@@ -15,8 +15,7 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 
 Create, tinker and have fun learning about emerging technologies such as Artificial Intelligence, Immersive Media or Internet of Things at free workshops or get creative and join an exclusive digital storytelling contest and stand to win a chance to get your video featured and other attractive prizes! 
 
-<div class="row">
-  <b>Virtual Workshops</b>
+<b>Virtual Workshops</b>
 
 <table>
   <tr>
@@ -30,18 +29,16 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td><b>Partner</b></td>
   </tr>
   <tr>
-    <td colspan="5">Virtual Workshops All workshops will be held using Zoom</td>
+    <td colspan="5">Virtual Workshops <br> All workshops will be held using Zoom</td>
   <tr>
     <td>1000-1100</td>
-    <td>10 -12 years</td>
+    <td>10-12 years</td>
     <td>Build your own Chatbot with SCRATCH 3.0</td>
-  <td>Build a chatbot that provides advice on common illnesses and learn the concept of Artificial Intelligence with SCRATCH 3.0. See how chatbots can help people answer frequently-asked questions and improve efficiency in our lives.</td>
+  <td>Build a chatbot that provides advice on common illnesses and learn the concept of Artificial Intelligence with SCRATCH 3.0. <br>See how chatbots can help people answer frequently-asked questions and improve efficiency in our lives.</td>
   <td><a href="http://www.kidscode.sg/" target="_blank">KIDSCODE</a></td>
   </tr>
 </table>
-</div>
 
-<div class="row">
 ### **Storytelling Workshop**
 
 ![2](/images/innovate/Storytelling.jpg)
@@ -54,4 +51,3 @@ Learn what it takes to tell good stories that can engage, relate and impact from
 <u><b>Contest</b></u><br>
 Stand a chance to work with the professionals at the Nas Studios to turn your script into a video. Win attractive prizes and make your storytelling dream come true. Details of the contest will be shared at the workshop.
 
-</div>
