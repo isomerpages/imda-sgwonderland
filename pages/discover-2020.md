@@ -15,35 +15,23 @@ Gearing up for the digital future? Discover the art of digital parenting with th
 
 ![3](/images/discover/Parenting.jpg)
 
-Learn the art of digital parenting with the Media Literacy Council and industry experts from TikTok and LEGO! <br><br>
+Learn the art of digital parenting with the Media Literacy Council and industry experts from TikTok and LEGO! <br>
 
-<div class="row">
+#### Webinar 1
 
-#### Webinar 1<br>
-<div class="column"> <img src="/images/discover/TikTok-Logo-vertical.png"> 
-</div>
-</div> 
-<div class="row">
- <div class="column1">
- <b>A Tikin’ Good Time: Social Media as a Family Affair</b><br>
+<img src="/images/discover/TikTok-Logo-vertical.png" style="width:70vw><br> 
+
+<b>A Tikin’ Good Time: Social Media as a Family Affair</b><br>
 <b>2.00pm to 3.00pm, Saturday, 28 November 2020</b><br> 
 As social media usage rises during these times, new trends have emerged and platforms like TikTok have seen a record number of downloads. If you are a parent who wants to understand what TikTok is about, then this webinar is for you!.<br> 
 Organised by the Media Literacy Council (MLC) in collaboration with TikTok, the webinar will teach parents how to enhance family bonding time through fun activities that can be done on the video-sharing app. Learn from MLC and TikTok’s panel of experts as they share their tips on best practices to engage children on digital literacy topics, as well as best practices to ensure responsible and safe usage of social media. [Register today!](){:target="_blank"}
 <br>
-</div>
-</div>
 
-<div class="row"> 
-<br><h4> Webinar 2</h4>
-</div>           
-<div class="row">
-<div class="column">
-  <img src="/images/discover/lego-srgb_L.png"><br>
-  </div>
-</div>
-<div class="row">
-<div class="column1">
- <b>Build Them Up! Teach Children Digital Literacy Through Play</b><br>
+#### Webinar 2
+
+<img src="/images/discover/lego-srgb_L.png"><br>
+
+<b>Build Them Up! Teach Children Digital Literacy Through Play</b><br>
 <b>4.00pm to 5.00pm, Saturday, 28 November 2020</b><br>
 The use of technology has allowed parents and children to be increasingly linked through the proliferation of apps, channels and platforms. This necessity to be online also presents a new set of issues for parents, such as difficulty in engaging their children on digital literacy topics due to their intangibility. Research by Kapersky has shown that parents spend just 46 minutes talking to their children about online risks throughout their entire childhood as they find it difficult to express the risks in a relatable way.<br> 
 To enable children to maximise the immense learning and development benefits that can be achieved through digital experiences, it is equally important for children to be educated on the associated risks of online experiences and how to navigate the online environment in a safe manner.  By using creative and play-based techniques to bring these concepts to life, kids will have a better understanding of what to look out for when they navigate the internet to be safe, be smart and be kind.<br> 
@@ -51,10 +39,7 @@ This webinar, presented by the LEGO Group and the Media Literacy Council, will p
 
 *Both webinars are conducted on zoom and require pre-registration.*<br>
 [Back to Top](#top)
-</div>
-</div>
-<div class="row">
-<div class="column1">
+
 <a name="2"></a><br>
 
 <h3><b>Future Ready Living</b></h3>
@@ -65,5 +50,4 @@ Shop for the latest tech gadgets and innovations on Shopee! Catch <b>Benzo & Chr
 
 <img src="/images/discover/Future Ready Living infographic.png">
 [Back to Top](#top)
-</div>
-</div>
+
