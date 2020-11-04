@@ -8,7 +8,10 @@ third_nav_title: 'Innovate Zone'
 
 Create, tinker and have fun learning about emerging technologies such as Artificial Intelligence, Immersive Media or Internet of Things at free workshops or get creative and join an exclusive digital storytelling contest and stand to win a chance to get your video featured and other attractive prizes! 
 
+<a name="top"></a>
+[Emerging Tech Workshops](#1) | [Making a Millionaire Creator Workshop & Contest](#2) 
 
+<a name="1"></a>
 ### **Emerging Tech Workshops**
 
 ![1](/images/innovate/Workshop.jpg)
@@ -164,6 +167,11 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td class="tg-0pky"><a href="https://www.facebook.com/groups/MakeIT.sg" target="_blank">Tinkermind</a></td>
   </tr>
 </table>
+
+[Back to Top](#top)
+
+<a name="2"></a>
+
 ### **Making a Millionaire Creator Workshop & Contest**
 
 ![2](/images/innovate/2020_10_IMDA_Millionaire_ads_NA no logo.jpg)
@@ -176,3 +184,4 @@ Learn what it takes to tell good stories that can engage, relate and impact from
 <u><b>Contest</b></u><br>
 Stand a chance to work with the and turn your script into a video. Win attractive prizes and make your storytelling dream come true. Details of the contest will be shared at the workshop. 
 
+[Back to Top](#top)
