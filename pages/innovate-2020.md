@@ -104,7 +104,7 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-y698" colspan="2"><b>29 Nov</b></th><th class="tg-y698" colspan="3"> </th>
+    <th class="tg-y698" colspan="2"><b style="color:white;">29 Nov</b></th><th class="tg-y698" colspan="3"> </th>
   </tr>
   <tr>
     <td class="tg-0pky"><b>Time</b></td>
