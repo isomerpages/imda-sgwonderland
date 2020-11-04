@@ -1,11 +1,11 @@
 ---
-title: 'Discover Zone 2020'
+title: 'Discover Zone'
 permalink: /discover-2020
 breadcrumb: 'Discover 2020'
 
 ---
 
-Gearing up for the digital future?  Discover the art of digital parenting, or shop for the latest tech gadgets and innovations, some of which are created by our homegrown companies, which can help you in your everyday lives. 
+Gearing up for the digital future? Discover the art of digital parenting with the experts. Shop for the latest tech gadgets and innovations, some of which are created by homegrown companies and see how they can help you in your everyday lives. 
 
 <a name="top"></a>
 [The Art of Digital Parenting](#1) | [Future Ready Living](#2) 
@@ -18,7 +18,8 @@ Gearing up for the digital future?  Discover the art of digital parenting, or sh
 Learn the art of digital parenting with the Media Literacy Council and industry experts from TikTok and LEGO! 
 
 #### Webinar 1<br>
-![tiktok](/images/discover/TikTok-Logo-vertical.png)
+<div class="row">
+ <div class="column"><img src="/images/discover/TikTok-Logo-vertical.png"></div></div>
 <b>A Tikin’ Good Time: Social Media as a Family Affair</b><br>
 <b>2.00pm to 3.00pm, Saturday, 28 November 2020</b><br> 
 As social media usage rises during these times, new trends have emerged and platforms like TikTok have seen a record number of downloads. If you are a parent who wants to understand what TikTok is about, then this webinar is for you!.<br> 
