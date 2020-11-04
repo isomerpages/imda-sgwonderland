@@ -36,9 +36,8 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td class="tg-0pky"><b>Partner</b></td>
   </tr>
    <tr>
-     <td class="tg-0pky" colspan="3"> <b>Virtual Workshops</b> <br> All workshops will be held using Zoom</td>
+     <td class="tg-0pky" colspan="4"> <b>Virtual Workshops</b> <br> All workshops will be held using Zoom</td>
      <td class="tg-0pky" colspan="1"> </td>
-    <td class="tg-0pky" colspan="1"> </td>
   </tr>
   <tr>
     <td class="tg-0pky">1000-1100</td>
