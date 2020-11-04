@@ -372,3 +372,12 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
     background: none;
 }
+
+/* Start of Custom CSS - Columns */
+.column {
+  margin: auto;
+  width: 70%;
+  height: 25rem;
+	overflow: visible;
+	
+}
