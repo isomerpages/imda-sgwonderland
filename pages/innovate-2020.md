@@ -6,7 +6,7 @@ third_nav_title: 'Innovate Zone'
 
 ---
 
-Create, tinker and have fun learning about emerging technologies such as Artificial Intelligence and Immersive Media through fun and engaging workshops at no cost! Be creative and build your own Virtual Reality World, or dive in the world of AI with Minecraft. Workshops are free, but registration is required. Vacancies are on a first come, first served basis. [Register today!](){:target="_blank"} 
+Create, tinker and have fun learning about emerging technologies such as Artificial Intelligence, Immersive Media or Internet of Things at free workshops or get creative and join an exclusive digital storytelling contest and stand to win a chance to get your video featured and other attractive prizes! 
 
 
 ### **Emerging Tech Workshops**
