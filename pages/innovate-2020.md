@@ -22,7 +22,7 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 .tg td{font-family:Lato;font-size:16px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Lato;font-size:16px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-y698{background-color:#6e358e;border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
@@ -99,7 +99,7 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 .tg td{font-family:Lato;font-size:16px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Lato;font-size:16px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-y698{background-color:#ed1b28;border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
