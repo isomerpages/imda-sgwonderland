@@ -51,4 +51,3 @@ Learn what it takes to tell good stories that can engage, relate and impact from
 <u><b>Contest</b></u><br>
 Stand a chance to work with the professionals at the Nas Studios to turn your script into a video. Win attractive prizes and make your storytelling dream come true. Details of the contest will be shared at the workshop.
 
-![logos](/images/IMDA_Logo_v1.png)
