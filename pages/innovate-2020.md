@@ -29,7 +29,7 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td><b>Partner</b></td>
   </tr>
   <tr>
-    <td colspan="5">Virtual Workshops<br>All workshops will be held using Zoom</td>
+    <td colspan="5">Virtual Workshops All workshops will be held using Zoom</td>
   <tr>
     <td>1000-1100</td>
     <td>10 -12 years</td>
