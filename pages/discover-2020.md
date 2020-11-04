@@ -17,11 +17,10 @@ Gearing up for the digital future? Discover the art of digital parenting with th
 
 Learn the art of digital parenting with the Media Literacy Council and industry experts from TikTok and LEGO! 
 
-#### Webinar 1<br>
-
 <div class="row">
-<div class="column"><img src="/images/discover/TikTok-Logo-vertical.png"></div>
-</div> 
+
+#### Webinar 1<br>
+<div class="column"> <img src="/images/discover/TikTok-Logo-vertical.png"> </div></div> 
 <div class="row"><div class="column1"><b>A Tikin’ Good Time: Social Media as a Family Affair</b><br>
 <b>2.00pm to 3.00pm, Saturday, 28 November 2020</b><br> 
 As social media usage rises during these times, new trends have emerged and platforms like TikTok have seen a record number of downloads. If you are a parent who wants to understand what TikTok is about, then this webinar is for you!.<br> 
