@@ -1,5 +1,5 @@
 ---
-title: 'Experience Zone 2020'
+title: 'Experience Zone'
 permalink: /experience-2020
 breadcrumb: 'Experience 2020'
 
@@ -92,4 +92,3 @@ More youths are into esports, but how do parents get involved too? Come join us 
 
 [Back to Top](#top)
 
-![logos](/images/IMDA_Logo_v1.png)
