@@ -19,24 +19,21 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 
 <table>
   <tr>
-    <th colspan="5"><b>28 Nov</b></th>
+    <th colspan="4"><b>28 Nov</b></th>
   </tr>
   <tr>
     <td><b>Time</b></td>
     <td><b>Age Group</b></td>
     <td><b>Workshop</b></td>
     <td><b>Synopsis</b></td>
-    <td><b>Partner</b></td>
   </tr>
   <tr>
-    <td colspan="5">Virtual Workshops <br> All workshops will be held using Zoom</td>
+    <td colspan="4">Virtual Workshops <br> All workshops will be held using Zoom</td>
   <tr>
     <td>1000-1100</td>
     <td>10-12 years</td>
     <td>Build your own Chatbot with SCRATCH 3.0</td>
   <td>Build a chatbot that provides advice on common illnesses and learn the concept of Artificial Intelligence with SCRATCH 3.0. <br>See how chatbots can help people answer frequently-asked questions and improve efficiency in our lives.</td>
-  <td><a href="http://www.kidscode.sg/" target="_blank">KIDSCODE</a></td>
-  </tr>
 </table>
 
 ### **Storytelling Workshop**
