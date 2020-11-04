@@ -15,7 +15,7 @@ Look forward to a plethora of fun and excitement from catching exclusive Virtual
 
 ![1](/images/experience/VR Watch Party.jpg)
 
-Put on your VR goggles and sign up for Singapore’s first Virtual Reality (VR) Watch Party! Experience life in a water village or immerse yourself in a joyous African festival as you catch all these never-seen-before, exclusive VR and 360o content. Participants will also get to meet and interact with the content creators themselves. All in the comfort of your home!<br> 
+Put on your VR goggles and sign up for Singapore’s first Virtual Reality (VR) Watch Party! Experience life in a water village or immerse yourself in a joyous African festival as you catch all these never-seen-before, exclusive VR and 360&#176; content. Participants will also get to meet and interact with the content creators themselves. All in the comfort of your home!<br> 
 
 No VR goggles? Get two Google Cardboard headsets for FREE per household! Limited headsets available on a first come, first serve basis.
 
@@ -79,7 +79,7 @@ Fit a radio collar to an elephant to gain crucial data on how to protect these e
 ![2](/images/experience/ESports.jpg)
 
 <b>Wild Rift Community Open: Singapore</b><br>
-The first Wild Rift tournament ever to be hosted in Singapore. This wildly anticipated Riot Games title officially launched in the region recently and Redd+E in partnership with IMDA is proud to bring you the Wild Rift Community Open: Singapore! Watch 128 teams based in Singapore battle it out to be crowned as the 1st community winner! Be entertained with streamers from the region fight it out in a showmatch for bragging rights.
+The first Wild Rift tournament ever to be hosted in Singapore. This wildly anticipated Riot Games title officially launched in the region recently and Redd+E in partnership with IMDA is proud to bring you the Wild Rift Community Open: Singapore! Be entertained as regional streamers fight it out in a showmatch for bragging rights.
  
 Sign up and stand a chance to win the grand prize of $500/- and other exciting prizes! Registration will commence from the week of 9 Nov onwards.
  
