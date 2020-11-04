@@ -47,25 +47,50 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td class="tg-0pky"><a href="http://www.kidscode.sg/" target="_blank">KIDSCODE</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">1000-1100</td>
-    <td class="tg-0pky">10 -12 years</td>
-    <td class="tg-0pky">Build your own Chatbot with SCRATCH 3.0</td>
-    <td class="tg-0pky">Build a chatbot that provides advice on common illnesses and learn the concept of Artificial Intelligence with SCRATCH 3.0. See how chatbots can help people answer frequently-asked questions and improve efficiency in our lives.</td>
-    <td class="tg-0pky"><a href="http://www.kidscode.sg/" target="_blank">KIDSCODE</a></td>
+    <td class="tg-0pky">1100-1200</td>
+    <td class="tg-0pky">Parent-child</td>
+    <td class="tg-0pky">Automate your home with IOT</td>
+    <td class="tg-0pky">Build a mobile app to control a virtual home automation Internet of Things device using Blynk, a platform used by professionals to develop IoT products.  Learn about IoT and how it can be used for Home Automation in this hands-on workshop.</td>
+    <td class="tg-0pky"><a href="http://www.aposteriori.com.sg/" target="_blank">A posteriorie</a></td>
   </tr>
     <tr>
-    <td class="tg-0pky">1000-1100</td>
-    <td class="tg-0pky">10 -12 years</td>
-    <td class="tg-0pky">Build your own Chatbot with SCRATCH 3.0</td>
-    <td class="tg-0pky">Build a chatbot that provides advice on common illnesses and learn the concept of Artificial Intelligence with SCRATCH 3.0. See how chatbots can help people answer frequently-asked questions and improve efficiency in our lives.</td>
-    <td class="tg-0pky"><a href="http://www.kidscode.sg/" target="_blank">KIDSCODE</a></td>
+    <td class="tg-0pky">1400-1500</td>
+    <td class="tg-0pky">7-9 years</td>
+    <td class="tg-0pky">A Zero Waste Campaign with Image Recognition</td>
+    <td class="tg-0pky">Create an image recognition machine to identify and sort objects into the right recycling bin. Learn how you can help in Singapore's Zero Waste Campaign and do your part for the environment.</td>
+    <td class="tg-0pky"><a href="http://www.stemacademy.sg/" target="_blank">Steam Academy</a></td>
   </tr>
     <tr>
-    <td class="tg-0pky">1000-1100</td>
+    <td class="tg-0pky">1500-1600</td>
     <td class="tg-0pky">10 -12 years</td>
-    <td class="tg-0pky">Build your own Chatbot with SCRATCH 3.0</td>
-    <td class="tg-0pky">Build a chatbot that provides advice on common illnesses and learn the concept of Artificial Intelligence with SCRATCH 3.0. See how chatbots can help people answer frequently-asked questions and improve efficiency in our lives.</td>
-    <td class="tg-0pky"><a href="http://www.kidscode.sg/" target="_blank">KIDSCODE</a></td>
+    <td class="tg-0pky">Build your own Virtual Reality (VR) World</td>
+    <td class="tg-0pky">Design a 3D environment and dive into an immersive world with Virtual Reality. Acquire hands-on experience through Cospaces Edu, where you can create anything! Get your creative juices flowing and start creating!</td>
+    <td class="tg-0pky"><a href="http://www.kodecoonacademy.com/" target="_blank">Kodecoon</a></td>
+  </tr>
+     <tr>
+     <td class="tg-0pky" colspan="4"> <b>Physical Workshops</b> <br> All physical workshops will be conducted at MakeIT at Tampines Regional Library</td>
+     <td class="tg-0pky" colspan="1"> </td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">1030-1200</td>
+    <td class="tg-0pky">10 -12 years</td>
+    <td class="tg-0pky">Speech Recognition with Halocode</td>
+    <td class="tg-0pky">Program the Halocode and see how it can recognise speech and display colours accordingly. Learn about Artificial Intelligence and Speech Recognition in this fun and engaging hands on session.</td>
+    <td class="tg-0pky"><a href="http://www.stemacademy.sg/" target="_blank">Stem Academy</a></td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">1400-1530</td>
+    <td class="tg-0pky">10 -12 years</td>
+    <td class="tg-0pky">Tinkermind: Obstacle Avoidance with Qdee</td>
+    <td class="tg-0pky">Join us for a fun, hands-on robotics session with Qdee, a micro:bit powered robotics kit. Program Qdee to move and sense its environment using MakeCode, and have an anti-bumper car challenge! With many robots in an environment, how will you design your program to safely navigate our space?  </td>
+    <td class="tg-0pky"><a href="http://www.tinkermind.sg/" target="_blank">Tinkermind</a></td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">1630-1800</td>
+    <td class="tg-0pky">10 -12 years</td>
+    <td class="tg-0pky">Build and Code Your Own Autonomous Astrobot</td>
+    <td class="tg-0pky">Build, program and control a Astrobot to complete challenges in this workshop. Learn to navigate autonomously, pick up and place down objects automatically and see how these concepts are used in autonomous driving.</td>
+    <td class="tg-0pky"><a href="https://sjcosmofuture.com/" target="_blank">SJ Cosmo Future</a></td>
   </tr>
 </table>
 
