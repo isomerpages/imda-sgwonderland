@@ -17,7 +17,7 @@ sections:
             - title: 'register for Emerging Tech Workshops'
               url: '/innovate-2020#1'
               external: false
-           - title: 'register for Making a Millionaire Creator Workshop & Contest'
+            - title: 'register for Making a Millionaire Creator Workshop & Contest'
               url: '/innovate-2020#2'
               external: false   
         title: ' '
