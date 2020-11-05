@@ -16,7 +16,7 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 
 ![1](/images/innovate/Workshop.jpg)
 
-Create, tinker and have fun learning about emerging technologies such as Artificial Intelligence, Immersive Media or Internet of Things at free workshops or get creative and join an exclusive digital storytelling contest and stand to win a chance to get your video featured and other attractive prizes! 
+Learn about emerging technologies such as Artificial Intelligence, Immersive Media or Internet of Things through fun and engaging workshops at no cost! Be creative and build your own Virtual Reality World, or dive in the world of AI with Minecraft. Workshops are free, but registration is required. Vacancies are on a first come, first served basis. <b>[Register now!](www.sgdwonderlandspecial.com){:target="_blank"}</b>
 
 <b>Virtual Workshops</b>
 
@@ -40,7 +40,7 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td class="tg-0pky"><b>Partner</b></td>
   </tr>
    <tr>
-     <td class="tg-y690" colspan="4"> <b>Virtual Workshops</b> <br> All workshops will be held using Zoom</td>
+     <td class="tg-y690" colspan="4"> <b>Virtual Workshops</b> <br> All virtual workshops will be held using Zoom</td>
      <td class="tg-y690" colspan="1"> </td>
   </tr>
   <tr>
@@ -55,14 +55,14 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td class="tg-0pky">Parent-child</td>
     <td class="tg-0pky">Automate your home with IOT</td>
     <td class="tg-0pky">Build a mobile app to control a virtual home automation Internet of Things device using Blynk, a platform used by professionals to develop IoT products.  Learn about IoT and how it can be used for Home Automation in this hands-on workshop.</td>
-    <td class="tg-0pky"><a href="http://www.aposteriori.com.sg/" target="_blank">A posteriorie</a></td>
+    <td class="tg-0pky"><a href="http://www.aposteriori.com.sg/" target="_blank">A Posteriori</a></td>
   </tr>
     <tr>
     <td class="tg-0pky">1400-1500</td>
     <td class="tg-0pky">7-9 years</td>
     <td class="tg-0pky">A Zero Waste Campaign with Image Recognition</td>
     <td class="tg-0pky">Create an image recognition machine to identify and sort objects into the right recycling bin. Learn how you can help in Singapore's Zero Waste Campaign and do your part for the environment.</td>
-    <td class="tg-0pky"><a href="http://www.stemacademy.sg/" target="_blank">Steam Academy</a></td>
+    <td class="tg-0pky"><a href="http://www.stemacademy.sg/" target="_blank">STEM Academy</a></td>
   </tr>
     <tr>
     <td class="tg-0pky">1500-1600</td>
@@ -80,14 +80,14 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td class="tg-0pky">10 -12 years</td>
     <td class="tg-0pky">Speech Recognition with Halocode</td>
     <td class="tg-0pky">Program the Halocode and see how it can recognise speech and display colours accordingly. Learn about Artificial Intelligence and Speech Recognition in this fun and engaging hands on session.</td>
-    <td class="tg-0pky"><a href="http://www.stemacademy.sg/" target="_blank">Stem Academy</a></td>
+    <td class="tg-0pky"><a href="http://www.stemacademy.sg/" target="_blank">STEM Academy</a></td>
   </tr>
     <tr>
     <td class="tg-0pky">1400-1530</td>
     <td class="tg-0pky">10 -12 years</td>
     <td class="tg-0pky">Tinkermind: Obstacle Avoidance with Qdee</td>
     <td class="tg-0pky">Join us for a fun, hands-on robotics session with Qdee, a micro:bit powered robotics kit. Program Qdee to move and sense its environment using MakeCode, and have an anti-bumper car challenge! With many robots in an environment, how will you design your program to safely navigate our space?  </td>
-    <td class="tg-0pky"><a href="http://www.tinkermind.sg/" target="_blank">Tinkermind</a></td>
+    <td class="tg-0pky"><a href="https://www.facebook.com/groups/MakeIT.sg" target="_blank">Tinkermind</a></td>
   </tr>
     <tr>
     <td class="tg-0pky">1630-1800</td>
@@ -117,7 +117,7 @@ Create, tinker and have fun learning about emerging technologies such as Artific
     <td class="tg-0pky"><b>Partner</b></td>
   </tr>
    <tr>
-     <td class="tg-y690" colspan="4"> <b>Virtual Workshops</b> <br> All workshops will be held using Zoom</td>
+     <td class="tg-y690" colspan="4"> <b>Virtual Workshops</b> <br> All virtual workshops will be held using Zoom</td>
      <td class="tg-y690" colspan="1"> </td>
   </tr>
   <tr>
@@ -174,12 +174,12 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 
 ### **Making a Millionaire Creator Workshop & Contest**
 
-![2](/images/innovate/2020_10_IMDA_Millionaire_ads_NA no logo.jpg)
+![2](/images/innovate/2020_10_IMDA_Millionaire_ads_NA_no_logo2.jpg)
 
 Kickstart your digital storytelling journey and take part in the first “Making a Millionaire Creator” contest jointly organised by IMDA and NasAcademy. Stand a chance to turn your script into a video and win attractive prizes. Join us in the workshop taught by the experts from NasAcademy and learn useful tips and tricks for your next big story. 
 
 <u><b>Workshop</b></u><br>
-Learn what it takes to tell good stories that can engage, relate and impact from the experts at NasAcademy on 28 Nov at 10am. Details of the contest will be shared at the end of the workshop. [Sign up](https://www.google.com){:target="_blank"} now!
+Learn what it takes to tell good stories that can engage, relate and impact from the experts at NasAcademy on 28 Nov at 10am. Details of the contest will be shared at the end of the workshop. <b>[Sign up now!](https://www.sgdwonderlandspecial.com/){:target="_blank"}</b> 
 
 <u><b>Contest</b></u><br>
 Stand a chance to work with the and turn your script into a video. Win attractive prizes and make your storytelling dream come true. Details of the contest will be shared at the workshop. 
