@@ -157,7 +157,7 @@ Learn about emerging technologies such as Artificial Intelligence, Immersive Med
     <td class="tg-0pky">10 -12 years</td>
     <td class="tg-0pky">Artificial Intelligence of Things (AIoT) with micro:bit</td>
     <td class="tg-0pky">Get hands on with a micro:bit and learn about Artificial Intelligence using HuskyLens to recognize faces and send data to a cloud dashboard. See how Artificial Intelligence of Things can be achieved with a micro:bit!</td>
-    <td class="tg-0pky"><a href="https://my-sgdcs.sgnet.gov.sg/personal/imda-ysoh/Documents/SGDW20/SGDW2020 -- Docs for sharing/kuriosity.sg" target="_blank">Kuriosity</a></td>
+    <td class="tg-0pky"><a href="https://www.kuriosity.sg/" target="_blank">Kuriosity</a></td>
   </tr>
     <tr>
     <td class="tg-0pky">1500-1630</td>
