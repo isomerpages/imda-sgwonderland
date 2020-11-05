@@ -392,6 +392,6 @@ $desktop: 960px + (2 * $gap) !default;
   clear: both;
 }
 
-.bp-button bp-dropdown-button hero-dropdown is-centered {
-	margin-top: 15rem;
+.bp-dropdown-menu {
+	margin-top: -15rem;
 }
