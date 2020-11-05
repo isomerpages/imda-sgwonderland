@@ -23,8 +23,9 @@ Learn the art of digital parenting with the Media Literacy Council and industry 
 
 <b>A Tikin’ Good Time: Social Media as a Family Affair</b><br>
 <b>2.00pm to 3.00pm, Saturday, 28 November 2020</b><br> 
-As social media usage rises during these times, new trends have emerged and platforms like TikTok have seen a record number of downloads. If you are a parent who wants to understand what TikTok is about, then this webinar is for you!.<br> 
-Organised by the Media Literacy Council (MLC) in collaboration with TikTok, the webinar will teach parents how to enhance family bonding time through fun activities that can be done on the video-sharing app. Learn from MLC and TikTok’s panel of experts as they share their tips on best practices to engage children on digital literacy topics, as well as best practices to ensure responsible and safe usage of social media. [Register today!](){:target="_blank"}
+As social media usage rises during these times, new trends have emerged and platforms like TikTok has seen its popularity exponentially increase, especially among teenagers, becoming one of the fastest growing social media platforms in the world. If you are a parent who wants to understand what TikTok is about, then this webinar is for you!
+
+Singapore TikTok stars @mingweirocks and his father @daddyming, who have a combined reach of 17 million followers, will be present to share their experience bonding as a family through the use of short-form video content. They will be joined by TikTok’s Head of Trust and Safety APAC, Arjun Narayan, as well as Media Literacy Council member Dr Jiow Hee Jhee, who will talk about the best practices to engage children on digital literacy topics, as well as ensuring the responsible and safe usage of social media. <b>[Register today!](https://www.sgdwonderlandspecial.com/){:target="_blank"}</b>  
 <br>
 
 #### Webinar 2
@@ -33,9 +34,9 @@ Organised by the Media Literacy Council (MLC) in collaboration with TikTok, the 
 
 <b>Build Them Up! Teach Children Digital Literacy Through Play</b><br>
 <b>4.00pm to 5.00pm, Saturday, 28 November 2020</b><br>
-The use of technology has allowed parents and children to be increasingly linked through the proliferation of apps, channels and platforms. This necessity to be online also presents a new set of issues for parents, such as difficulty in engaging their children on digital literacy topics due to their intangibility. Research by Kapersky has shown that parents spend just 46 minutes talking to their children about online risks throughout their entire childhood as they find it difficult to express the risks in a relatable way.<br> 
-To enable children to maximise the immense learning and development benefits that can be achieved through digital experiences, it is equally important for children to be educated on the associated risks of online experiences and how to navigate the online environment in a safe manner.  By using creative and play-based techniques to bring these concepts to life, kids will have a better understanding of what to look out for when they navigate the internet to be safe, be smart and be kind.<br> 
-This webinar, presented by the LEGO Group and the Media Literacy Council, will provide insights to how technology has changed parent’s and children’s digital literacy habits, practical tips, and activities for parents and educators to engage children on digital literacy and safety topics through playful experiences. [Register today!](){:target="_blank"}<br>
+The use of technology by children has proliferated through the exponential growth in availability of apps, digital channels and platforms. This ease of connectivity and necessity to be online by children also presents a new set of issues for parents, such as difficulty in engaging their children on digital literacy topics due to its potential abstract nature.
+
+Listen to Mr Dieter Carstensen, Head of Digital Safety at the LEGO Group, who will share his insights on the importance of parent-children engagement, practical tips, and activities for parents and educators to engage children on digital literacy and safety topics through play-based techniques. He will be joined by Media Literacy Council member Prof Lim Sun Sun, Professor of Communication and Technology at the Singapore University of Technology and Design, who will be providing insights to how technology has changed parent’s and children’s digital literacy habits, and the importance of understanding associated online risks and how to navigate them in a safe manner. <b>[Register today!](https://www.sgdwonderlandspecial.com/){:target="_blank"}</b><br>
 
 *Both webinars are conducted on zoom and require pre-registration.*<br>
 [Back to Top](#top)
@@ -45,7 +46,7 @@ This webinar, presented by the LEGO Group and the Media Literacy Council, will p
 
 <img src="/images/discover/Future Ready Living.jpg"><br>
 
-Shop for the latest tech gadgets and innovations on Shopee! Catch <b>Benzo & Chrysan</b> from <b>WahBanana</b> on [Shopee Live](){:target="_blank"} on <b>28 Nov, 6pm</b> as they show how these smart living and lifestyle devices can help us in our everyday lives! 
+Shop for the latest tech gadgets and innovations on Shopee! Catch <b>Benzo & Chrysan</b> from YouTube Comedy Channel <b>Wah!Banana</b> on Shopee Live on <b>28 Nov, 6pm</b> as they demonstrate how these smart living and lifestyle devices can help us in our everyday lives. There will be flash deals, special promos and giveaways during the livestream!
 
 <img src="/images/discover/Future Ready Living Draft v3.png"><br>
 [Back to Top](#top)
