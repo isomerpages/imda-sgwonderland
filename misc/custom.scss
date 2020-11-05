@@ -350,7 +350,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .is-centered {
-  margin-top: 15rem;
+  margin: auto;
 }
 
 .is-three-fifths-mobile {
@@ -392,6 +392,3 @@ $desktop: 960px + (2 * $gap) !default;
   clear: both;
 }
 
-.bp-dropdown-menu {
-	margin-top: -15rem;
-}
