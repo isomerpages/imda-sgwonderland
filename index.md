@@ -5,9 +5,21 @@ permalink: /
 notification: 
 sections:
     - hero:
+        dropdown:
+          title: null
+          options:
+            - title: 'showcase my innovative product for 2020'
+              url: 'https://form.gov.sg/5d1f0bbe35ca9e001156253e'
+              external: true
+            - title: 'conduct tech and media workshops'
+              url: 'https://go.gov.sg/sgdwwrks'
+              external: true
+            - title: 'register my interest to attend the event'
+              url: 'https://go.gov.sg/visitsgdw2020'
+              external: true
         title: ' '
         subtitle: ' '
-        background: /images/homepage/SGDW2020_Nas_FB_IG_1920x1080_Nologos.jpg
+        background: /images/homepage/KV_201029_4931x2313-01.jpg
     - infobar:
         subtitle:
         title: 'SG:Digital Wonderland goes special!'
