@@ -83,7 +83,7 @@ The first Wild Rift tournament ever to be hosted in Singapore. This wildly antic
 <b>Influencer Showmatch and Engagement</b><br>
 Be entertained with renowned streamers in the region fight it out in a showmatch for bragging rights! Interact with the streamers, pick up tips and tricks on how to be a successful game streamer plus stand to win exciting prizes!
 
-<b>Panel Session – Parenting in Esports: What You Need to Know</b>
+<b>Panel Session – Parenting in Esports: What You Need to Know</b><br>
 More youths are into esports, but how do parents get involved? Come join us in a discussion to learn more about the eSports landscape in Singapore, hear from the pros on their life as a professional gamer and discover how parents can support their child in their eSports and gaming journey. 
 
 Tune in to Redd+E Facebook page [here](https://www.facebook.com/ReddentesSports/){:target="_blank"} on <b>29 November at 3.30pm</b> to find out.
