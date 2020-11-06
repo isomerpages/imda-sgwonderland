@@ -70,4 +70,3 @@ The kit features Sherlock, your friendly neighbourhood detective, who will help 
 
 [Back to Top](#top)
 
-![logos](/images/IMDA_Logo_v1.png)
