@@ -22,7 +22,7 @@ sections:
               external: false   
         title: ' '
         subtitle: ' '
-        background: /images/homepage/KV_201029_4931x2313-01.jpg
+        background: /images/homepage/SGDW2020_Nas_FB_IG_1920x1080_Nologosv2.jpg
     - infobar:
         subtitle:
         title: 'SG:Digital Wonderland <br>goes special!'
