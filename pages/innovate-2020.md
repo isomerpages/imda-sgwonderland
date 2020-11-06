@@ -168,6 +168,8 @@ Learn about emerging technologies such as Artificial Intelligence, Immersive Med
   </tr>
 </table>
 
+<b>[Register now!](https://www.sgdwonderlandspecial.com/){:target="_blank"}</b>
+
 [Back to Top](#top)
 
 <a name="2"></a>
