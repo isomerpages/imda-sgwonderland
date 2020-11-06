@@ -29,10 +29,8 @@ exclude:
 collections:
     innovate:
         output: true
-    discover:
-        output: true
     experience:
-        output: true
+        output: false
     media:
         output: true
     highlights:

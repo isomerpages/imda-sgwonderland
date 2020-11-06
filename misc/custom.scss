@@ -359,3 +359,83 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+.bg-hero {
+    width: 100%;
+    padding-top: 46.91%;
+    position: relative;
+}
+.bp-hero-body {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: none;
+    display: flex;
+    align-items: flex-end;
+}
+
+/* Start of Custom CSS - Columns */
+.column {
+  float: inherit;
+  width: 65%;
+	overflow: visible;
+	
+}
+.column1 {
+  margin: auto;
+  width: 90%;
+	overflow: visible;
+	
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (min-width: 1024px) {
+  .bp-hero-body .bp-container {
+    margin-top: 15% !important;
+  }
+  .bp-hero-body .row {
+    height: auto;
+    max-height: 100%;
+    .bp-dropdown {
+      margin-top: 20%;
+    }
+  }
+}
+@media screen and (max-width: 1024px) {
+  .bp-hero-body {
+    .bp-container {
+      width: 60vw;
+    }
+    .row {
+      display: flex;
+      align-items: flex-end;
+    }
+  }
+}
+@media screen and (max-width: 768px) {
+  .bp-hero-body .bp-container {
+    width: 60vw;
+  }
+}
+@media screen and (max-width: 425px) {
+  .bp-hero-body {
+    padding-bottom: 5%;
+    .bp-dropdown {
+      .hero-dropdown {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        span.icon {
+          font-size: 12px !important;
+        }
+      }
+      p, h5 {
+        font-size: 12px;
+      }
+    }
+  } 
+}

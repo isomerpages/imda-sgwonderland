@@ -4,30 +4,55 @@
 # Feel free to edit this file :) #
 #                                #
 ##################################
-- title: Subscribe to our newsletter
-  url: https://form.gov.sg/#!/5ce4f21a2305a40017faf7b0
-  external: true
-- title: About
-  url: /about/
-  sub-links:
-      - title: 2019 Highlights
+contact_us: /contact-us/
+show_reach: false
+feedback: https://form.gov.sg/#!/5e53851686290e0013b81b22
+privacy_policy: /privacy/
+terms_of_use: /terms-of-use/
+copyright_agency: Infocomm Media Developmeny Authority
+
+
+# If navlinks are the same as your navigation bar, you can omit this section entirely!
+navlinks:
+  - title: About
+    url: /about
+    sublinks:
+      - title: SG&#58;D Wonderland 2020
+        url: /sgdw2020/
+      - title: SG&#58;D Wonderland 2019
         url: /highlights-2019/
-- title: Discover
-  url: /discover-2019/
-- title: Experience
-  url: /experience-2019/
-- title: Innovate
-  url: /innovate-2019/
-  sub-links:
-      - title: Youth Innovation Awards
-        url: /innovate/youth-innovation-awards/
-- title: Stories
-  url: null
-  sub-links:
+  - title: Discover
+    url: /discover-2020
+    sublinks:
+      - title: The Art of Digital Parenting
+        url: /discover-2020#1
+      - title: Future Ready Living
+        url: /discover-2020#2
+  - title: Experience
+    url: /experience-2020
+    sublinks:
+      - title: VR Watch Party
+        url: /experience-2020#1
+      - title: eSports Stadia
+        url: /experience-2020#2
+  - title: Innovate
+    url: innovate-2020
+    sublinks:
+      - title: Emerging Tech Workshops
+        url: /innovate-2020#1
+      - title: Making a Millionaire Creator Workshop & Contest
+        url: /innovate-2020#2
+  - title: Stories
+    url: 
+    sublinks:
       - title: Features
-        url: /features
+        url: /features/
       - title: Media Coverage
         url: /media-2019
+
+links:
+  - title: Newsletter
+    url: https://form.gov.sg/#!/5ce4f21a2305a40017faf7b0
 
 
 

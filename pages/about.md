@@ -8,10 +8,10 @@ breadcrumb: About
 
 ### **SG:Digital Wonderland**
 
-Organised by the Infocomm Media Development Authority, SG:Digital Wonderland is Singapore’s largest tech carnival, with many cool gadgets and exciting activities lined up for everyone to discover, experience and innovate!
+Singapore’s most exciting digital festival is back! Join us for an amazing weekend of fun tech experiences at this special edition where you can gather your family and friends and take part in interactive activities to experience various exciting technologies and learn how they can enhance the way we live, learn and play! 
 
-Explore the latest technology to see what it is like to live in a digital future, and try the interactive experiences to discover how technology is positively changing the way we live, work and play.  Whether you are young or young-at-heart, there would be something for everyone, come and Discover, Experience and Innovate with new and exciting tech at SG:D Wonderland!
+From free live stream activities, engaging workshops to winning attractive prizes, there is something for everyone. Come Discover, Experience, Innovate with SG:Digital Wonderland Special Edition on <b>28 and 29 November 2020.</b>
 
-![1](/images/sgdw-organiser-logos.001.jpeg)
+
 
 
