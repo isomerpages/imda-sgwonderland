@@ -13,10 +13,6 @@ Look forward to a plethora of fun and excitement from discovering the latest tec
 <a name="1"></a>
 ### **Future Ready Living**<br>
 
-V2<br>
-<img src="/images/Future Ready Living Draft V2.png"><br>
-V1<br>
-<img src="/images/Future Ready Living Draft.png">
 ![1](/images/experience/experience1b.jpg)
 
 Get served with your favourite coffee from a robotic barista at Crown Coffee, control all your electronic devices with just a Smart Egg by Aico or try out Argon Transform – the smart helmet for motorists, check these out and more at our cool tech showcases.
@@ -111,4 +107,3 @@ Note: Recommended age is 4 years and above. Kids below 12 years must be accompan
 
 [Back to Top](#top)
 
-![logos](/images/IMDA_Logo_v1.png)
