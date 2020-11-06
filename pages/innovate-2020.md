@@ -16,7 +16,7 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 
 ![1](/images/innovate/Workshop.jpg)
 
-Learn about emerging technologies such as Artificial Intelligence, Immersive Media or Internet of Things through fun and engaging workshops at no cost! Be creative and build your own Virtual Reality World, or dive in the world of AI with Minecraft. Workshops are free, but registration is required. Vacancies are on a first come, first served basis. <b>[Register now!](www.sgdwonderlandspecial.com){:target="_blank"}</b>
+Learn about emerging technologies such as Artificial Intelligence, Immersive Media or Internet of Things through fun and engaging workshops at no cost! Be creative and build your own Virtual Reality World, or dive in the world of AI with Minecraft. Workshops are free, but registration is required. Vacancies are on a first come, first served basis. <b>[Register now!](https://www.sgdwonderlandspecial.com/){:target="_blank"}</b>
 
 <b>Virtual Workshops</b>
 
