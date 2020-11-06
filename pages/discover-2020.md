@@ -36,7 +36,7 @@ Singapore TikTok stars @mingweirocks and his father @daddyming, who have a combi
 <b>4.00pm to 5.00pm, Saturday, 28 November 2020</b><br>
 The use of technology by children has proliferated through the exponential growth in availability of apps, digital channels and platforms. This ease of connectivity and necessity to be online by children also presents a new set of issues for parents, such as difficulty in engaging their children on digital literacy topics due to its potential abstract nature.
 
-Listen to Mr Dieter Carstensen, Head of Digital Safety at the LEGO Group, who will share his insights on the importance of parent-children engagement, practical tips, and activities for parents and educators to engage children on digital literacy and safety topics through play-based techniques. He will be joined by Media Literacy Council member Prof Lim Sun Sun, Professor of Communication and Technology at the Singapore University of Technology and Design, who will be providing insights to how technology has changed parent’s and children’s digital literacy habits, and the importance of understanding associated online risks and how to navigate them in a safe manner. <b>[Register today!](https://www.sgdwonderlandspecial.com/){:target="_blank"}</b><br>
+Listen to Mr Dieter Carstensen, Head of Digital Safety at the LEGO Group, who will share his insights on the importance of parent-children engagement, practical tips, and activities for parents and educators to engage children on digital literacy and safety topics through play-based techniques. He will be joined by Media Literacy Council member Prof Lim Sun Sun, Professor of Communication and Technology at the Singapore University of Technology and Design, who will be providing insights to how technology has changed parent’s and children’s digital literacy habits, and the importance of understanding online risks and how to navigate them in a safe manner. <b>[Register today!](https://www.sgdwonderlandspecial.com/){:target="_blank"}</b><br>
 
 *Both webinars are conducted on zoom and require pre-registration.*<br>
 [Back to Top](#top)
@@ -44,9 +44,9 @@ Listen to Mr Dieter Carstensen, Head of Digital Safety at the LEGO Group, who wi
 <a name="2"></a>
 <h3><b>Future Ready Living</b></h3>
 
-<img src="/images/discover/Future Ready Living.jpg"><br>
+<img src="/images/discover/Future Ready Living Draft v4.png"><br>
 
-Shop for the latest tech gadgets and innovations on Shopee! Catch <b>Benzo & Chrysan</b> from YouTube Comedy Channel <b>Wah!Banana</b> on Shopee Live on <b>28 Nov, 6pm</b> as they demonstrate how these smart living and lifestyle devices can help us in our everyday lives. There will be flash deals, special promos and giveaways during the livestream!
+Shop for the latest tech gadgets and innovations on Shopee! Catch <b>Benzo & Chrysan</b> from YouTube Comedy Channel <b>Wah!Banana</b> on Shopee Live on <b>28 Nov, 6pm</b> as they demonstrate how these smart living and lifestyle devices can help us in our everyday lives. Stay tuned for flash deals, special promos and giveaways during the livestream.
 
 <img src="/images/discover/Future Ready Living Draft v3.png"><br>
 [Back to Top](#top)
