@@ -1,5 +1,6 @@
 title: 'Infocomm Media Development Authority'
-description: Description
+description: Test123
+shareicon: '/images/sgd-logo-sharing.002.png'
 url: ""
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
