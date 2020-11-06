@@ -176,12 +176,12 @@ Learn about emerging technologies such as Artificial Intelligence, Immersive Med
 
 ![2](/images/innovate/2020_10_IMDA_Millionaire_ads_NA_no_logo2.jpg)
 
-Kickstart your digital storytelling journey and take part in the first “Making a Millionaire Creator” contest jointly organised by IMDA and NasAcademy. Stand a chance to turn your script into a video and win attractive prizes. Join us in the workshop taught by the experts from NasAcademy and learn useful tips and tricks for your next big story. 
+Kickstart your digital storytelling journey and take part in the first “Making a Millionaire Creator” workshop jointly organised by IMDA and Nas Academy. Stand a chance to turn your script into a video and win attractive prizes. Join us in the workshop taught by the experts from Nas Academy and learn useful tips and tricks for your next big story. 
 
 <u><b>Workshop</b></u><br>
-Learn what it takes to tell good stories that can engage, relate and impact from the experts at NasAcademy on 28 Nov at 10am. Details of the contest will be shared at the end of the workshop. <b>[Sign up now!](https://www.sgdwonderlandspecial.com/){:target="_blank"}</b> 
+Learn what it takes to tell good stories that can engage, relate and impact from the experts at Nas Academy on 28 Nov at 10am. Details of the contest will be shared at the end of the workshop. <b>[Sign up now!](https://www.sgdwonderlandspecial.com/){:target="_blank"}</b> 
 
 <u><b>Contest</b></u><br>
-Stand a chance to work with the and turn your script into a video. Win attractive prizes and make your storytelling dream come true. Details of the contest will be shared at the workshop. 
+Stand a chance to work with the experts at Nas Academy and turn your script into a video. Win attractive prizes and make your storytelling dream come true. Details of the contest will be shared at the workshop. 
 
 [Back to Top](#top)
