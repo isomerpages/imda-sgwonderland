@@ -77,7 +77,7 @@ Fit a radio collar to an elephant to gain crucial data on how to protect these e
 
 ![2](/images/experience/LOL.jpg)
 
-<b><u>Wild Rift Community Open: Singapore</u></b><br>
+<b style="color:red;"><u>Wild Rift Community Open: Singapore</u></b><br>
 
 <b>Thursday to Sunday, 26 to 29 November 2020, [Timing varies daily](https://www.eventbrite.sg/e/league-of-legends-wild-rift-community-open-tickets-126191206295){:target="_blank"}</b><br>
 <b>Registration is required for tournament.</b>
