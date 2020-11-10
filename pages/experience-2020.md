@@ -88,7 +88,7 @@ Registration will commence on 9 November at 12.00pm. Sign up [here](https://www.
 
 Catch the livestream session on [Redd+E Facebook page](https://www.facebook.com/ReddentesSports/){:target="_blank"} or on MeWatch on <b>28 and 29 November, 7pm.</b>
 
-<b><u>Influencer Showmatch and Engagement</u></b><br>
+<b style="color:red;"><u>Influencer Showmatch and Engagement</u></b><br>
 
 <b>Saturday, 28 November 2020, 3.30pm to 4.30pm</b><br>
 <b>Registration is not required.</b>
@@ -97,7 +97,7 @@ Be entertained with renowned regional streamers fight it out in a showmatch fo
 
 Tune in to [Redd+E Facebook page](https://www.facebook.com/ReddentesSports/){:target="_blank"} on <b>28 November, 3.30pm.</b>
 
-<b><u>Panel Session – Parenting in eSports: What You Need to Know</u></b><br>
+<b style="color:red;"><u>Panel Session – Parenting in eSports: What You Need to Know</u></b><br>
 
 <b>Sunday, 29 November 2020, 3.30pm to 4pm</b><br>
 <b>Registration is not required.</b>
