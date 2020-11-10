@@ -81,7 +81,7 @@ Fit a radio collar to an elephant to gain crucial data on how to protect these e
 
 ![2](/images/experience/LOL.jpg)
 
-<b style="color:red;"><u>Wild Rift Community Open: Singapore</u></b><br>
+<b><u>Wild Rift Community Open: Singapore</u></b><br>
 
 <b>Thursday to Sunday, 26 to 29 November 2020, [Timing varies daily](https://www.eventbrite.sg/e/league-of-legends-wild-rift-community-open-tickets-126191206295){:target="_blank"}</b><br>
 <b>Registration is required for tournament.</b>
@@ -92,7 +92,7 @@ Registration will commence on 9 November at 12.00pm. Sign up [here](https://www.
 
 Catch the livestream session on [Redd+E Facebook page](https://www.facebook.com/ReddentesSports/){:target="_blank"} or on MeWatch on <b>28 and 29 November, 7pm.</b>
 
-<b style="color:red;"><u>Influencer Showmatch and Engagement</u></b><br>
+<b><u>Influencer Showmatch and Engagement</u></b><br>
 
 <b>Saturday, 28 November 2020, 3.30pm to 4.30pm</b><br>
 <b>Registration is not required.</b>
@@ -101,7 +101,7 @@ Be entertained with renowned regional streamers fight it out in a showmatch fo
 
 Tune in to [Redd+E Facebook page](https://www.facebook.com/ReddentesSports/){:target="_blank"} on <b>28 November, 3.30pm.</b>
 
-<b style="color:red;"><u>Panel Session – Parenting in eSports: What You Need to Know</u></b><br>
+<b><u>Panel Session – Parenting in eSports: What You Need to Know</u></b><br>
 
 <b>Sunday, 29 November 2020, 3.30pm to 4pm</b><br>
 <b>Registration is not required.</b>
