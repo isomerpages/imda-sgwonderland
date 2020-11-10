@@ -15,6 +15,10 @@ Look forward to a plethora of fun and excitement from catching exclusive Virtual
 
 ![1](/images/experience/VR Watch Party.jpg)
 
+<b>Saturday and Sunday, 28 and 29 November 2020</b><br>
+<b>Registration is required. Limited slots.</b><br>
+<b>Click [here](http://www.sgdwonderlandspecial.com/){:target="_blank"} to view screening time.</b>
+
 Put on your VR goggles and sign up for Singapore’s first V Watch Party! Experience life in a water village or immerse yourself in a joyous African festival as you catch all these never-seen-before, exclusive VR and 360&#176; content. Participants will also get to meet and interact with the content creators. All in the comfort of your home!
 
 No VR goggles? Get up to two VR Cardboard headsets for FREE per household! Limited headsets available on a first come, first serve basis. <b>[Get them now!](https://www.sgdwonderlandspecial.com/){:target="_blank"}</b>
