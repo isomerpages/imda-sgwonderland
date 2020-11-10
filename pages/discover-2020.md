@@ -46,7 +46,12 @@ Listen to Mr Dieter Carstensen, Head of Digital Safety at the LEGO Group, who wi
 
 <img src="/images/discover/Future Ready Living.jpg">
 
+<b>Saturday, 28 November 2020, 6.00pm to 7.00pm</b><br>
+<b>No registration required.</b>
+
 Shop for the latest tech gadgets and innovations on Shopee! Catch <b>Benzo & Chrysan</b> from YouTube Comedy Channel <b>Wah!Banana</b> on Shopee Live on <b>28 Nov, 6pm</b> as they demonstrate how these smart living and lifestyle devices can help us in our everyday lives. Stay tuned for flash deals, special promos and giveaways during the livestream.
+
+Join us on Shopee Live. Link will be provided closer to date.
 
 <img src="/images/discover/Future Ready Living Draft v4.png"><br>
 [Back to Top](#top)
