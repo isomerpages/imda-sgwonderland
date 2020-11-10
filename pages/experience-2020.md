@@ -106,7 +106,5 @@ More youths are into eSports, but how do parents get involved? Come join us in a
 
 Catch the livestream session on [Redd+E Facebook page](https://www.facebook.com/ReddentesSports/){:target="_blank"} on <b>29 November, 3.30pm.</b>
 
-
-
 [Back to Top](#top)
 
