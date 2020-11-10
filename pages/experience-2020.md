@@ -79,8 +79,8 @@ Fit a radio collar to an elephant to gain crucial data on how to protect these e
 
 <b><u>Wild Rift Community Open: Singapore</u></b><br>
 
-<b>Thursday to Sunday, 26 to 29 November 2020, [Timing varies daily](https://www.eventbrite.sg/e/league-of-legends-wild-rift-community-open-tickets-126191206295){:target="_blank"}<br>
-Registration is required for tournament.</b><br>
+<b>Thursday to Sunday, 26 to 29 November 2020, [Timing varies daily](https://www.eventbrite.sg/e/league-of-legends-wild-rift-community-open-tickets-126191206295){:target="_blank"}</b><br>
+<b>Registration is required for tournament.</b>
 
 The first Wild Rift tournament ever to be hosted in Singapore. This wildly anticipated Riot Games title officially launched in the region recently and Redd+E in partnership with IMDA is proud to bring you the Wild Rift Community Open: Singapore! Watch 128 local teams battle it out to be crowned as the 1st community winner! Stand a chance to win the grand prize of SGD500, and other exciting prizes! 
 
@@ -90,8 +90,8 @@ Catch the livestream session on [Redd+E Facebook page](https://www.facebook.com/
 
 <b><u>Influencer Showmatch and Engagement</u></b><br>
 
-<b>Saturday, 28 November 2020, 3.30pm to 4.30pm<br>
-Registration is not required.</b>
+<b>Saturday, 28 November 2020, 3.30pm to 4.30pm</b><br>
+<b>Registration is not required.</b>
 
 Be entertained with renowned regional streamers fight it out in a showmatch for bragging rights! Interact with the streamers, pick up tips and tricks on how to be a successful game streamer plus stand to win exciting prizes!
 
@@ -99,8 +99,8 @@ Tune in to [Redd+E Facebook page](https://www.facebook.com/ReddentesSports/){:ta
 
 <b><u>Panel Session – Parenting in eSports: What You Need to Know</u></b><br>
 
-<b>Sunday, 29 November 2020, 3.30pm to 4pm<br>
-Registration is not required.</b>
+<b>Sunday, 29 November 2020, 3.30pm to 4pm</b><br>
+<b>Registration is not required.</b>
 
 More youths are into eSports, but how do parents get involved? Come join us in a discussion to learn more about the eSports landscape in Singapore, hear from the pros on their life as a professional gamer and discover how parents can support their child in their eSports and gaming journey. 
 
