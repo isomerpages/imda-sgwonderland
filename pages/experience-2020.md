@@ -75,11 +75,13 @@ Fit a radio collar to an elephant to gain crucial data on how to protect these e
 <a name="2"></a><br>
 ### **eSports Stadia**<br>
 
-![2](/images/experience/eSports2.jpg)
+![2](/images/experience/LOL.jpg)
 
-<b>Wild Rift Community Open: Singapore</b><br>
+<b><u>Wild Rift Community Open: Singapore</u></b><br>
 The first Wild Rift tournament ever to be hosted in Singapore. This wildly anticipated Riot Games title officially launched in the region recently and Redd+E in partnership with IMDA is proud to bring you the Wild Rift Community Open: Singapore! Watch 128 local teams battle it out to be crowned as the 1st community winner! Stand a chance to win the grand prize of SGD500, and other exciting prizes! 
 
+<b>Thursday to Sunday, 26 to 29 November 2020, [Timing varies daily](https://www.eventbrite.sg/e/league-of-legends-wild-rift-community-open-tickets-126191206295){:target="_blank"}<br>
+Registration is required for tournament.</b><br>
 Registration will commence on 9 November at 12.00pm. Sign up [here](https://www.eventbrite.sg/e/stay-home-challenge-breakertentative-name-wild-rift-tickets-126191206295){:target="_blank"}!
 
 <b>Influencer Showmatch and Engagement</b><br>
