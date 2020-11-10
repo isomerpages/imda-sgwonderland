@@ -183,7 +183,7 @@ Interested participants can choose to join a physical or virtual workshop. All w
 
 ![2](/images/innovate/2020_10_IMDA_Millionaire_ads_NA_no_logo2.jpg)
 
-<b>Saturday, 28 November 2020, 10.00am to 11.00am</b><br>
+<b>Saturday and Sunday, 28 and 29 November 2020</b><br>
 <b>Registration is required. Limited slots.</b>
 
 Kickstart your digital storytelling journey and take part in the first “Making a Millionaire Creator” workshop and contest jointly organised by IMDA and Nas Academy. Stand a chance to turn your script into a video and win attractive prizes. Join us in the workshop taught by the experts from Nas Academy and learn useful tips and tricks for your next big story. 
