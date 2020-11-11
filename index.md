@@ -55,7 +55,7 @@ From free livestream activities, engaging workshops to winning attractive prizes
         alt: innovate
     - infobar:
         title: Connect with us
-        description: Join others and get the latest updates at SG:Digital Wonderland <a href="https://fb.me/e/4yiA19SN7">facebook event page.</a>
+        description: Join others and get the latest updates at SG:Digital Wonderland<br/><a href="https://fb.me/e/4yiA19SN7">facebook event page.</a>
 ---
 
 
