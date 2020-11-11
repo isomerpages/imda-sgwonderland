@@ -16,7 +16,12 @@ Create, tinker and have fun learning about emerging technologies such as Artific
 
 ![1](/images/innovate/Workshop.jpg)
 
-Learn about emerging technologies such as Artificial Intelligence, Immersive Media or Internet of Things through fun and engaging workshops at no cost! Be creative and build your own Virtual Reality World, or dive in the world of AI with Minecraft. Workshops are free, but registration is required. Vacancies are on a first come, first served basis. <b>[Register now!](https://www.sgdwonderlandspecial.com/){:target="_blank"}</b>
+<b>Saturday and Sunday, 28 and 29 November 2020</b><br>
+<b>Registration is required. Limited slots.</b>
+ 
+Learn about emerging technologies such as Artificial Intelligence, Immersive Media or Internet of Things through fun and engaging workshops at no cost! Be creative and build your own Virtual Reality World, or dive in the world of AI with Minecraft. 
+ 
+Interested participants can choose to join a physical or virtual workshop. All workshops are free, and registration is required. Vacancies are on a first come, first served basis. <b>[Register now!](https://www.sgdwonderlandspecial.com/){:target="_blank"}</b>
 
 <b>Virtual Workshops</b>
 
@@ -178,12 +183,15 @@ Learn about emerging technologies such as Artificial Intelligence, Immersive Med
 
 ![2](/images/innovate/2020_10_IMDA_Millionaire_ads_NA_no_logo2.jpg)
 
+<b>Saturday and Sunday, 28 and 29 November 2020</b><br>
+<b>Registration is required. Limited slots.</b>
+
 Kickstart your digital storytelling journey and take part in the first “Making a Millionaire Creator” workshop and contest jointly organised by IMDA and Nas Academy. Stand a chance to turn your script into a video and win attractive prizes. Join us in the workshop taught by the experts from Nas Academy and learn useful tips and tricks for your next big story. 
 
 <u><b>Workshop</b></u><br>
 Learn what it takes to tell good stories that can engage, relate and impact from the experts at Nas Academy on 28 Nov at 10am. Details of the contest will be shared at the end of the workshop. <b>[Sign up now!](https://www.sgdwonderlandspecial.com/){:target="_blank"}</b> 
 
 <u><b>Contest</b></u><br>
-Stand a chance to work with the experts at Nas Academy and turn your script into a video. Win attractive prizes and make your storytelling dream come true. Details of the contest will be shared at the workshop. 
+Stand a chance to work with the experts at Nas Academy and turn your script into a video. Win attractive prizes and make your storytelling dream come true. Check out the contest details [here.](https://nas.academy/millionairecreator){:target="_blank"} More details will be shared at the workshop.
 
 [Back to Top](#top)

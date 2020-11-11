@@ -15,6 +15,10 @@ Look forward to a plethora of fun and excitement from catching exclusive Virtual
 
 ![1](/images/experience/VR Watch Party.jpg)
 
+<b>Saturday and Sunday, 28 and 29 November 2020</b><br>
+<b>Registration is required. Limited slots.</b><br>
+<b>Click [here](http://www.sgdwonderlandspecial.com/){:target="_blank"} to view screening time.</b>
+
 Put on your VR goggles and sign up for Singapore’s first V Watch Party! Experience life in a water village or immerse yourself in a joyous African festival as you catch all these never-seen-before, exclusive VR and 360&#176; content. Participants will also get to meet and interact with the content creators. All in the comfort of your home!
 
 No VR goggles? Get up to two VR Cardboard headsets for FREE per household! Limited headsets available on a first come, first serve basis. <b>[Get them now!](https://www.sgdwonderlandspecial.com/){:target="_blank"}</b>
@@ -75,22 +79,36 @@ Fit a radio collar to an elephant to gain crucial data on how to protect these e
 <a name="2"></a><br>
 ### **eSports Stadia**<br>
 
-![2](/images/experience/eSports2.jpg)
+![2](/images/experience/LOL.jpg)
 
-<b>Wild Rift Community Open: Singapore</b><br>
+<b><u>Wild Rift Community Open: Singapore</u></b><br>
+
+<b>Thursday to Sunday, 26 to 29 November 2020, [Timing varies daily](https://www.eventbrite.sg/e/league-of-legends-wild-rift-community-open-tickets-126191206295){:target="_blank"}</b><br>
+<b>Registration is required for tournament.</b>
+
 The first Wild Rift tournament ever to be hosted in Singapore. This wildly anticipated Riot Games title officially launched in the region recently and Redd+E in partnership with IMDA is proud to bring you the Wild Rift Community Open: Singapore! Watch 128 local teams battle it out to be crowned as the 1st community winner! Stand a chance to win the grand prize of SGD500, and other exciting prizes! 
 
 Registration will commence on 9 November at 12.00pm. Sign up [here](https://www.eventbrite.sg/e/stay-home-challenge-breakertentative-name-wild-rift-tickets-126191206295){:target="_blank"}!
 
-<b>Influencer Showmatch and Engagement</b><br>
+Catch the livestream session on [Redd+E Facebook page](https://www.facebook.com/ReddentesSports/){:target="_blank"} or on MeWatch on <b>28 and 29 November, 7pm.</b>
+
+<b><u>Influencer Showmatch and Engagement</u></b><br>
+
+<b>Saturday, 28 November 2020, 3.30pm to 4.30pm</b><br>
+<b>Registration is not required.</b>
+
 Be entertained with renowned regional streamers fight it out in a showmatch for bragging rights! Interact with the streamers, pick up tips and tricks on how to be a successful game streamer plus stand to win exciting prizes!
 
-<b>Panel Session – Parenting in eSports: What You Need to Know</b><br>
+Tune in to [Redd+E Facebook page](https://www.facebook.com/ReddentesSports/){:target="_blank"} on <b>28 November, 3.30pm.</b>
+
+<b><u>Panel Session – Parenting in eSports: What You Need to Know</u></b><br>
+
+<b>Sunday, 29 November 2020, 3.30pm to 4pm</b><br>
+<b>Registration is not required.</b>
+
 More youths are into eSports, but how do parents get involved? Come join us in a discussion to learn more about the eSports landscape in Singapore, hear from the pros on their life as a professional gamer and discover how parents can support their child in their eSports and gaming journey. 
 
-Tune in to Redd+E Facebook page [here](https://www.facebook.com/ReddentesSports/){:target="_blank"} on <b>29 November at 3.30pm</b> to find out.
-
-
+Catch the livestream session on [Redd+E Facebook page](https://www.facebook.com/ReddentesSports/){:target="_blank"} on <b>29 November, 3.30pm.</b>
 
 [Back to Top](#top)
 
