@@ -37,7 +37,7 @@ collections:
     highlights:
         output: true
 favicon: /images/SGD-logo.png
-google-analytics: UA-79861556-1
+google_analytics: UA-79861556-1
 permalink: none
 baseurl: ""
 defaults:
