@@ -53,6 +53,6 @@ Shop for the latest tech gadgets and innovations on Shopee! Catch <b>Benzo & Chr
 
 Join us on Shopee Live. Link will be provided closer to date.
 
-<img src="/images/discover/Future Ready Living Draft v4.png"><br>
+<img src="/images/discover/Future Ready Living - Draft V5.png"><br>
 [Back to Top](#top)
 
