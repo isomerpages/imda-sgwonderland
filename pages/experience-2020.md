@@ -102,7 +102,7 @@ Be entertained with renowned regional streamers fight it out in a showmatch fo
 Tune in to [Redd+E Facebook page](https://www.facebook.com/ReddentesSports/){:target="_blank"} on <b>28 November, 3.30pm.</b>
 
 <b><u>Panel Session – Parenting in eSports: What You Need to Know</u></b><br>
-
+<img src="/images/experience/Panel Talks.jpg"><br>
 <b>Sunday, 29 November 2020, 3.30pm to 4pm</b><br>
 <b>Registration is not required.</b>
 
