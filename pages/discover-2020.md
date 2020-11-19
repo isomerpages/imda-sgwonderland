@@ -65,6 +65,6 @@ Join us on Shopee Live. Link will be provided closer to date.
 * Valid for the first 500 redemptions.
 
 
-Not valid for products in "Miscellaneous" and "Dining, Travel & Services" categories and Shopee's paid ads store.
+Not valid for products in "Miscellaneous" and "Dining, Travel & Services" categories and Shopee's paid ads store.<br>
 [Back to Top](#top)
 
