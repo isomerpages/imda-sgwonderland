@@ -44,15 +44,27 @@ Listen to Mr Dieter Carstensen, Head of Digital Safety at the LEGO Group, who wi
 <a name="2"></a>
 <h3><b>Future Ready Living</b></h3>
 
-<img src="/images/discover/Future Ready Living.jpg">
+<img src="/images/discover/Future Ready Living V2.jpg">
 
 <b>Saturday and Sunday, 28 and 29 November 2020</b><br>
 <b>No registration required.</b>
 
-Shop for the latest tech gadgets and innovations on Shopee! Catch <b>Benzo & Chrysan</b> from YouTube Comedy Channel <b>Wah!Banana</b> on Shopee Live on <b>28 Nov, 6pm</b> as they demonstrate how these smart living and lifestyle devices can help us in our everyday lives. Stay tuned for flash deals, special promos and giveaways during the livestream.
+Shop for the latest tech gadgets and innovations on Shopee! Catch <b>Benzo & Chrysan</b> from YouTube Comedy Channel <b>Wah!Banana</b> on Shopee Live on <b>28 Nov, 6pm</b> as they demonstrate how these smart living and lifestyle devices can help us in our everyday lives. Stay tuned for Flash Deals, special promos and giveaways during the livestream.
+
+What's more, new Shopee users can enjoy SGD7 off min. spend $15 with the code SGNEW7*
 
 Join us on Shopee Live. Link will be provided closer to date.
 
 <img src="/images/discover/Future Ready Living - Draft V5.png"><br>
+*Terms & Conditions for SGNEW7
+* For new Shopee users only.
+* Enjoy $7 off your order with min. spend $15.
+* Valid from 18-Nov till 30-Nov-2020, 23:59.
+* Applicable to payments involving Shopee Guarantee.
+* One usage per Shopee account.
+* Valid for the first 500 redemptions.
+
+
+Not valid for products in "Miscellaneous" and "Dining, Travel & Services" categories and Shopee's paid ads store.<br>
 [Back to Top](#top)
 
