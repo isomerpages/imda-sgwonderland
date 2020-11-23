@@ -55,7 +55,7 @@ What's more, new Shopee users can enjoy SGD7 off min. spend $15 with the code SG
 
 Join us on Shopee Live. Link will be provided closer to date.
 
-<img src="/images/discover/Future Ready Living - Draft V5.png"><br>
+<img src="/images/discover/Future Ready Living - Draft V14.png"><br>
 *Terms & Conditions for SGNEW7
 * For new Shopee users only.
 * Enjoy $7 off your order with min. spend $15.
