@@ -82,7 +82,7 @@ Interested participants can choose to join a physical or virtual workshop. All w
   </tr>
     <tr>
     <td class="tg-0pky">1030-1200</td>
-    <td class="tg-0pky">10 -12 years</td>
+    <td class="tg-0pky">Parent-child</td>
     <td class="tg-0pky">Speech Recognition with Halocode</td>
     <td class="tg-0pky">Program the Halocode and see how it can recognise speech and display colours accordingly. Learn about Artificial Intelligence and Speech Recognition in this fun and engaging hands on session.</td>
     <td class="tg-0pky"><a href="http://www.stemacademy.sg/" target="_blank">STEM Academy</a></td>
