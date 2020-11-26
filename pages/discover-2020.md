@@ -25,7 +25,7 @@ Learn the art of digital parenting with the Media Literacy Council and industry 
 <b>2.00pm to 3.00pm, Saturday, 28 November 2020</b><br> 
 As social media usage rises during these times, new trends have emerged and platforms like TikTok has seen its popularity exponentially increase, especially among teenagers, becoming one of the fastest growing social media platforms in the world. If you are a parent who wants to understand what TikTok is about, then this webinar is for you!
 
-Singapore TikTok stars @mingweirocks and his father @daddyming, who have a combined reach of 17 million followers, will be present to share their experience bonding as a family through the use of short-form video content. They will be joined by TikTok’s Head of Trust and Safety APAC, Arjun Narayan, as well as Media Literacy Council member Dr Jiow Hee Jhee, who will talk about the best practices to engage children on digital literacy topics, as well as ensuring the responsible and safe usage of social media. <b>Registration is now closed</b>  
+Singapore TikTok stars @mingweirocks and his father @daddyming, who have a combined reach of 17 million followers, will be present to share their experience bonding as a family through the use of short-form video content. They will be joined by TikTok’s Head of Trust and Safety APAC, Arjun Narayan, as well as Media Literacy Council member Dr Jiow Hee Jhee, who will talk about the best practices to engage children on digital literacy topics, as well as ensuring the responsible and safe usage of social media. <br><b>Registration is now closed</b>  
 <br>
 
 #### Webinar 2
