@@ -173,7 +173,6 @@ Interested participants can choose to join a physical or virtual workshop. All w
   </tr>
 </table>
 
-<b>Registration is now closed</b>
 
 [Back to Top](#top)
 
