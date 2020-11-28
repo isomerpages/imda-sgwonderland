@@ -180,7 +180,7 @@ Interested participants can choose to join a physical or virtual workshop. All w
 
 ### **Making a Millionaire Creator Workshop & Contest**
 
-![2](/images/innovate/2020_10_IMDA_Millionaire_ads_NA_no_logo2.jpg)
+![2](/images/innovate/2020_10_IMDA_Millionaire_ads_NA_no_logo3.jpg)
 
 <b>Saturday and Sunday, 28 and 29 November 2020</b><br>
 <b>Registration is required. Limited slots.</b>
