@@ -191,6 +191,6 @@ Kickstart your digital storytelling journey and take part in the first “Making
 Learn what it takes to tell good stories that can engage, relate and impact from the experts at Nas Academy on 28 Nov at 10am. Details of the contest will be shared at the end of the workshop. <b>Registration is now closed</b> 
 
 <u><b>Contest</b></u><br>
-Stand a chance to work with the experts at Nas Academy and turn your script into a video. Win attractive prizes and make your storytelling dream come true. Check out the contest details [here.](https://nas.academy/millionairecreator){:target="_blank"} More details will be shared at the workshop.
+Stand a chance to work with the experts at Nas Academy and turn your script into a video. Win attractive prizes and make your storytelling dream come true. More details will be shared at the workshop.
 
 [Back to Top](#top)

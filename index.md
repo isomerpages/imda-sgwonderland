@@ -30,7 +30,7 @@ sections:
 <br><br>
 From free livestream activities, engaging workshops to winning attractive prizes, there is something for everyone. Come Discover, Experience, Innovate with SG:Digital Wonderland Special Edition on <b>28 and 29 November 2020.</b>
 <br><br>
-<img src="/images/SGDW2020_ProgrammeSheet_V8-01.jpg" alt="Programme Sheet - Singapore Digital Wonderland 2020" /></p>'
+<img src="/images/SGDW2020_ProgrammeSheet_V7-01.jpg" alt="Programme Sheet - Singapore Digital Wonderland 2020" /></p>'
     - infopic:
         title: Discover
         subtitle:
