@@ -16,8 +16,7 @@ Look forward to a plethora of fun and excitement from catching exclusive Virtual
 ![1](/images/experience/VR Watch Party.jpg)
 
 <b>Saturday and Sunday, 28 and 29 November 2020</b><br>
-<b>Registration is required. Limited slots.</b><br>
-<b>Click [here](http://www.sgdwonderlandspecial.com/){:target="_blank"} to view screening time.</b>
+<b>Registration is required. Limited slots.</b>
 
 Put on your VR goggles and sign up for Singapore’s first VR Watch Party! Experience life in a water village or immerse yourself in a joyous African festival as you catch all these never-seen-before, exclusive VR and 360&#176; content. Participants will also get to meet and interact with the content creators. All in the comfort of your home!
 
@@ -83,7 +82,7 @@ Fit a radio collar to an elephant to gain crucial data on how to protect these e
 
 <b><u>Wild Rift Community Open: Singapore</u></b><br>
 
-<b>Thursday to Sunday, 26 to 29 November 2020, [Timing varies daily](https://www.eventbrite.sg/e/league-of-legends-wild-rift-community-open-tickets-126191206295){:target="_blank"}</b><br>
+<b>Thursday to Sunday, 26 to 29 November 2020!</b><br>
 <b>Registration is required for tournament.</b>
 
 The first Wild Rift tournament ever to be hosted in Singapore. This wildly anticipated Riot Games title officially launched in the region recently and Redd+E in partnership with IMDA is proud to bring you the Wild Rift Community Open: Singapore! Watch 128 local teams battle it out to be crowned as the 1st community winner! Stand a chance to win the grand prize of SGD500, and other exciting prizes! 

@@ -49,7 +49,7 @@ Listen to Mr Dieter Carstensen, Head of Digital Safety at the LEGO Group, who wi
 <b>Saturday and Sunday, 28 and 29 November 2020</b><br>
 <b>No registration required.</b>
 
-Shop for the latest tech gadgets and innovations on [Shopee!](https://shopee.sg/m/digital-wonderland){:target="_blank"} Catch <b>Benzo & Chrysan</b> from YouTube Comedy Channel <b>Wah!Banana</b> on [Shopee Live](https://shopee.sg/shopeestream){:target="_blank"} on <b>28 Nov, 6pm</b> as they demonstrate how these smart living and lifestyle devices can help us in our everyday lives. Stay tuned for Flash Deals, special promos and giveaways during the livestream.
+Shop for the latest tech gadgets and innovations on Shopee! Catch <b>Benzo & Chrysan</b> from YouTube Comedy Channel <b>Wah!Banana</b> on [Shopee Live](https://shopee.sg/shopeestream){:target="_blank"} on <b>28 Nov, 6pm</b> as they demonstrate how these smart living and lifestyle devices can help us in our everyday lives. Stay tuned for Flash Deals, special promos and giveaways during the livestream.
 
 What's more, new Shopee users can enjoy SGD7 off min. spend $15 with the code SGNEW7*
 
