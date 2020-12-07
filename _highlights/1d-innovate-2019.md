@@ -16,8 +16,6 @@ Visit the Youth Innovation Showcase to check out some of the most innovative and
 
 Head down to the event and vote for your favourite project!
 
-Learn more by clicking [here](/innovate/youth-innovation-awards/)
-
 **Workshops for all**
 
 ![2](/images/innovate/innovate1.jpg)
