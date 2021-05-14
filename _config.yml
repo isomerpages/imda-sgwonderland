@@ -27,6 +27,7 @@ exclude:
     - vendor/ruby/
     - Gemfile
     - Gemfile.lock
+resources_name: "features"
 collections:
     innovate:
         output: true
