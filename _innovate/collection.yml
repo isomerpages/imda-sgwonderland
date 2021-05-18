@@ -1,0 +1,8 @@
+collections:
+  innovate:
+    output: true
+    order:
+      - youth-innovation-awards/.keep
+      - youth-innovation-awards/introduction.md
+      - youth-innovation-awards/youth-innovation-awards-2020.md
+      - youth-innovation-awards/youth-innovation-awards-2019-winners.md

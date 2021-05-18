@@ -1,0 +1,9 @@
+collections:
+  highlights:
+    output: true
+    order:
+      - sg-58-d-wonderland-2019/.keep
+      - sg-58-d-wonderland-2019/highlights.md
+      - sg-58-d-wonderland-2019/discover.md
+      - sg-58-d-wonderland-2019/experience.md
+      - sg-58-d-wonderland-2019/innovate.md

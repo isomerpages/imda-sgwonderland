@@ -5,45 +5,39 @@ url: ""
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 kramdown:
-    parse_block_html: true
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
+  parse_block_html: true
 paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 exclude:
-    - travis-script.js
-    - .travis.yml
-    - README.md
-    - package.json
-    - package-lock.json
-    - node_modules
-    - vendor/bundle/
-    - vendor/cache/
-    - vendor/gems/
-    - vendor/ruby/
-    - Gemfile
-    - Gemfile.lock
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
 resources_name: "features"
-collections:
-    innovate:
-        output: true
-    experience:
-        output: false
-    media:
-        output: true
-    highlights:
-        output: true
 favicon: /images/SGD-logo.png
 google_analytics: UA-79861556-1
 permalink: none
 baseurl: ""
 defaults:
-    -
-        scope:
-            path: ""
-        values:
-            layout: page
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
+staging: https://sgwonderland-staging.netlify.app/
+prod: https://sgwonderland-prod.netlify.app/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme

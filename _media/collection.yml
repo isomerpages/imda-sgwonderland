@@ -1,0 +1,6 @@
+collections:
+  media:
+    output: true
+    order:
+      - media-coverage/.keep
+      - media-coverage/media-coverage-2019.md
